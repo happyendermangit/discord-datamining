@@ -64,11 +64,14 @@ def add_comment_to_commit(commit_sha, comment):
 
     print(commit_sha)
 
-    payload = {
+    headers = {
+        "content-type":"application/json"
+    }
+    j = {
         'content': comment
     }
 
-    response = requests.post(WEBHOOK, headers=headers, json=payload)
+    response = requests.post(WEBHOOK, headers=headers, json=j)
 
     if response.status_code == 201:
         print("Comment added successfully.")

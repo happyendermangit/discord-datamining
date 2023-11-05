@@ -56,7 +56,7 @@ def commit_to_github(new_content):
         new_content = json.dumps(new_content,indent=4)
     
     c = repo.update_file(contents.path, "🚀strings updated!", new_content, contents.sha)
-    
+    print(c)
     return c.get('sha')
 
 

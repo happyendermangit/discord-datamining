@@ -40,7 +40,7 @@ def compareStrings(before,after):
         if v != "":
             diff += f"# {k.lower()}:\n{v}\n\n"
 
-    return diff
+    return diff + "```"
 
 from github import Github
 

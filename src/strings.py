@@ -20,7 +20,7 @@ def scrapeStrings(code):
     return strings
 
 def compareStrings(before,after):
-    diff = "# Strings:\n```diff"
+    diff = "# Strings:\n```diff\n"
     stuff = {
         "ADDED":"",
         "REMOVED":"",
@@ -31,7 +31,7 @@ def compareStrings(before,after):
             stuff['ADDED'] += f'+{key}: "{value}"\n'
         else:
             if value != before[key]:
-                stuff['UPDATED'] += f'-{key}:{before[key]}\n+{key}: "{value}"\n'
+                stuff['UPDATED'] += f'-{key}:"{before[key]}"\n+{key}: "{value}"\n'
     for key,value in before.items():
         if key not in after.keys():
             stuff['DELETED'] += f'+{key}: "{value}"\n'

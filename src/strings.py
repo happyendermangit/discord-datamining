@@ -57,7 +57,7 @@ def commit_to_github(new_content):
     
     c = repo.update_file(contents.path, "🚀strings updated!", new_content, contents.sha)
     print(c)
-    return c.get('sha')
+    return c.get('commit').get('sha')
 
 
 def add_comment_to_commit(commit_sha, comment):

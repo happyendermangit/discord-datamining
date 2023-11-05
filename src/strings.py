@@ -62,7 +62,7 @@ def commit_to_github(new_content):
 
 def add_comment_to_commit(commit_sha, comment):
 
-    
+    print(commit_sha)
     github_api_url = f'https://api.github.com/repos/USERNAME/REPO_NAME/commits/{commit_sha}/comments'
 
     headers = {

@@ -63,17 +63,12 @@ def commit_to_github(new_content):
 def add_comment_to_commit(commit_sha, comment):
 
     print(commit_sha)
-    github_api_url = f'https://api.github.com/happyendermangit/discord-datamining/commits/{commit_sha}/comments'
-
-    headers = {
-        'Authorization': f'Bearer {GITHUB_TOKEN}'
-    }
 
     payload = {
-        'body': comment
+        'content': comment
     }
 
-    response = requests.post(github_api_url, headers=headers, json=payload)
+    response = requests.post(WEBHOOK, headers=headers, json=payload)
 
     if response.status_code == 201:
         print("Comment added successfully.")

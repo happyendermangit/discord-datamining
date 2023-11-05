@@ -5,7 +5,7 @@ import os
 from github import Github
 import json
 
-WEBHOOK = os.getenv('DISCORD_WEBHOOK')
+WEBHOOK = os.getenv('WEBHOOK')
 GITHUB_TOKEN = os.getenv('ACCESS_TOKEN')
 print(GITHUB_TOKEN) 
 

@@ -28,13 +28,13 @@ def compareStrings(before,after):
     }
     for key,value in after.items():
         if key not in before.keys():
-            stuff['ADDED'] += f'+{key}: "{value}"\n'
+            stuff['ADDED'] += f'+ {key}: "{value}"\n'
         else:
             if value != before[key]:
-                stuff['UPDATED'] += f'-{key}:"{before[key]}"\n+{key}: "{value}"\n'
+                stuff['UPDATED'] += f'- {key}:"{before[key]}"\n+{key}: "{value}"\n'
     for key,value in before.items():
         if key not in after.keys():
-            stuff['REMOVED'] += f'+{key}: "{value}"\n'
+            stuff['REMOVED'] += f'- {key}: "{value}"\n'
     
     for k,v in stuff.items():
         if v != "":

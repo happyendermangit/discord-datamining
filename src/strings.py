@@ -34,7 +34,7 @@ def compareStrings(before,after):
                 stuff['UPDATED'] += f'-{key}:"{before[key]}"\n+{key}: "{value}"\n'
     for key,value in before.items():
         if key not in after.keys():
-            stuff['DELETED'] += f'+{key}: "{value}"\n'
+            stuff['REMOVED'] += f'+{key}: "{value}"\n'
     
     for k,v in stuff.items():
         if v != "":

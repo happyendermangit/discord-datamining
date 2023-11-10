@@ -3,6 +3,7 @@
     "DISCORD_DESC_LONG": "Join over 100 million people who use Discord to talk and hang out with communities and friends.",
     "NOTIFICATION_BODY_ATTACHMENT": "Uploaded !!{filename}!!",
     "NOTIFICATION_TITLE_START_GAME": "Somebody Playin'",
+    "TEST_IS_WEBHOOK_WROKING":"yes it is!",
     "NOTIFICATION_BODY_START_GAME": "!!{username}!! started playing !!{gameName}!!!",
     "NOTIFICATION_MESSAGE_CREATE_GUILD_ACTIVITY_JOIN": "!!{user}!! invited the channel to play !!{game}!!",
     "NOTIFICATION_MESSAGE_CREATE_GROUP_DM_ACTIVITY_JOIN": "!!{user}!! invited the group to play !!{game}!!",

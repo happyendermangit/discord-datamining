@@ -38,7 +38,7 @@ def compareStrings(before,after):
     
     for k,v in stuff.items():
         if v != "":
-            diff += f"# {k.lower()}:\n{v}\n\n"
+            diff += f"# {k.lower().capitalize()}:\n{v}\n\n"
 
     return diff + "```"
 

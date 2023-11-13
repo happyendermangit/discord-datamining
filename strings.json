@@ -2607,6 +2607,8 @@
     "DELETE_MESSAGE_BODY": "Are you sure you want to delete this message?",
     "DELETE_MESSAGE_REPORT": "Report to Discord's Trust & Safety team.",
     "DELETE_MESSAGE_CONTEXT_MENU_HINT": "\\nYou can hold down shift when clicking **delete message** to bypass this confirmation entirely.",
+    "EXIT_PREVIEW": "Exit Preview",
+    "PREVIEW_MODE": "Preview Mode",
     "PIN_MESSAGE": "Pin Message",
     "UNPIN_MESSAGE": "Unpin Message",
     "MESSAGE_PUBLISHED": "Message published.",

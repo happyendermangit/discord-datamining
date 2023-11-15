@@ -7836,6 +7836,7 @@
     "FORUM_POST": "Forum Post",
     "STORE_CHANNEL": "Store Channel",
     "NEWS_CHANNEL": "Announcement Channel",
+    "DM_ABBREVIATED": "DM",
     "GROUP_DM": "Group DM",
     "STAGE_CHANNEL": "Stage Channel",
     "STAGE_CHANNEL_LOCKED": "Stage Channel (Locked)",

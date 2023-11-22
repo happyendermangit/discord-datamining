@@ -44,9 +44,9 @@ repository_name = 'discord-datamining'
 g = Github(github_token)
 repo = g.get_user().get_repo(repository_name)
 
-ptb_path = "./ptb/"
-canary_path = "./canary/"
-stable_path = "./stable/"
+ptb_path = "./build/ptb/"
+canary_path = "./build/canary/"
+stable_path = "./build/stable/"
 
 
 

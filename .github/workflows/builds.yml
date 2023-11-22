@@ -37,4 +37,8 @@ jobs:
           git config --local user.name "happyendermangit"
 
       - name: commit
-        run: git commit -am "✅ Data updated!" 
+        run: |
+            git add ./builds/ptb
+            git add ./builds/canary
+            git add ./builds/stable
+            git commit -am "✅ Data updated!" 

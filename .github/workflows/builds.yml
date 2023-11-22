@@ -42,3 +42,5 @@ jobs:
             git add ./builds/canary
             git add ./builds/stable
             git commit -am "✅ Data updated!" 
+            git push
+      

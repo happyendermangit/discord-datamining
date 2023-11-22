@@ -1,31 +1,32 @@
-
 name: Save builds
+
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        pip install requests bs4 jsbeautifier PyGithub
-    - name: Lint with flake8
-      run: |
-        python ./src/buildHistory.py
-      env:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          pip install requests bs4 jsbeautifier PyGithub
+      - name: Lint with flake8
+        run: |
+          python ./src/buildHistory.py
+        env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-    - name: Push content
+      - name: Push content
         run: |
-          git add output || git commit -am "✅ Builds updated!" 
+          git add ./ptb || git commit -am "✅ PTB Builds updated!"
+          git add ./canary || git commit -am "✅ Canary Builds updated!"
+          git add ./stable || git commit -am "✅ Stable Builds updated!"
+          
+          git push

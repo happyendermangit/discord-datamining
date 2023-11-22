@@ -2,32 +2,6 @@ import requests
 import os
 from github import Github
 
-def commit_changes(repo, branch_name, commit_message, folder_path):
-    github_token = os.getenv('ACCESS_TOKEN')
-    g = Github(github_token)
-    repo = g.get_user().get_repo(repo)
-    branch = repo.get_branch(branch_name)
-    head_commit = branch.commit
-    tree = head_commit.commit.tree
-
-    
-    blobs = []
-    for filename in os.listdir(folder_path):
-        file_path = os.path.join(folder_path, filename)
-        if os.path.isfile(file_path):
-            with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                blobs.append(repo.create_git_blob(content, 'utf-8'))
-
-    
-    new_tree = repo.create_git_tree(blobs, tree)
-
-    
-    new_commit = repo.create_git_commit(commit_message, new_tree, [head_commit], None)
-
-    
-    branch.edit(commit=new_commit.sha)
-
 def save_html(url, path):
     response = requests.get(url)
     build_id = response.headers.get('X-Build-Id')
@@ -65,10 +39,10 @@ canary_commit_msg = f"✅ Canary builds updated ({canary})"
 stable_commit_msg = f"✅ Stable builds updated ({stable})"
 
 
+
 branch_name = "main"  
 
-
-commit_changes("discord-datamining","main",ptb_commit_msg,"./builds/ptb")
-commit_changes("discord-datamining","main",canary_commit_msg,"./builds/canary")
-commit_changes("discord-datamining","main",stable_commit_msg,"./builds/stable")
+os.system(f'git add ./builds/ptb || git commit -am "{ptb_commit_msg}"') 
+os.system(f'git add ./builds/canary || git commit -am "{canary_commit_msg}"') 
+os.system(f'git add ./builds/stable || git commit -am "{stable_commit_msg}"') 
 

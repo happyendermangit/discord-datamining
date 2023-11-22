@@ -28,6 +28,7 @@ jobs:
       - name: Lint with flake8
         run: |
           python ./src/buildHistory.py
+          ls
         env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

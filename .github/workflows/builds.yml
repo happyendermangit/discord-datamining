@@ -33,4 +33,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
  
       - name: commit
-        run: git diff-index --quiet HEAD || git commit -am "✅ Data updated!" 
+        run: git commit -am "✅ Data updated!" 

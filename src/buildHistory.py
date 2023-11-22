@@ -31,7 +31,7 @@ def save_html(url, path):
     html_content = response.text
 
     os.mkdir(path + "/"+build_id)
-    with open(path + build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:
+    with open(path + "/"+build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:
         f.write(html_content)
 
     return build_id 

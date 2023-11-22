@@ -28,8 +28,9 @@ jobs:
       - name: Run script
         run: |
           python ./src/buildHistory.py
-          git diff-index --quiet HEAD || git commit -am "✅ Data updated!" 
         env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
  
+      - name: commit
+        run: git diff-index --quiet HEAD || git commit -am "✅ Data updated!" 

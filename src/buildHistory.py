@@ -2,6 +2,28 @@ import requests
 import os
 from github import Github
 
+def commit_changes(repo, branch_name, commit_message, folder_path):
+    branch = repo.get_branch(branch_name)
+    head_commit = branch.commit
+    tree = head_commit.commit.tree
+
+    
+    blobs = []
+    for filename in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, filename)
+        if os.path.isfile(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                blobs.append(repo.create_git_blob(content, 'utf-8'))
+
+    
+    new_tree = repo.create_git_tree(blobs, tree)
+
+    
+    new_commit = repo.create_git_commit(commit_message, new_tree, [head_commit], None)
+
+    
+    branch.edit(commit=new_commit.sha)
 
 def save_html(url, path):
     response = requests.get(url)
@@ -22,9 +44,9 @@ repository_name = 'discord-datamining'
 g = Github(github_token)
 repo = g.get_user().get_repo(repository_name)
 
-ptb_path = "./builds/ptb/"
-canary_path = "./builds/canary/"
-stable_path = "./builds/stable/"
+ptb_path = "./ptb/"
+canary_path = "./canary/"
+stable_path = "./stable/"
 
 
 
@@ -44,13 +66,7 @@ stable_commit_msg = f"✅ Stable builds updated ({stable})"
 branch_name = "main"  
 
 
-ptb_commit = repo.get_branch(branch_name).commit
-ptb_commit.create_comment(ptb_commit_msg)
+commit_changes("discord-datamining","main",ptb_commit_msg,"./builds/ptb")
+commit_changes("discord-datamining","main",canary_commit_msg,"./builds/canary")
+commit_changes("discord-datamining","main",stable_commit_msg,"./builds/stable")
 
-
-canary_commit = repo.get_branch(branch_name).commit
-canary_commit.create_comment(canary_commit_msg)
-
-
-stable_commit = repo.get_branch(branch_name).commit
-stable_commit.create_comment(stable_commit_msg)

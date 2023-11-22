@@ -29,8 +29,9 @@ def save_html(url, path):
     response = requests.get(url)
     build_id = response.headers.get('X-Build-Id')
     html_content = response.text
-    
-    with open(path + f'/{build_id}.html', 'a+', encoding="utf-8") as f:
+
+    os.mkdir(path + "/"+build_id)
+    with open(path + build_id +f'/index.html', 'a+', encoding="utf-8") as f:
         f.write(html_content)
 
     return build_id 
@@ -42,9 +43,9 @@ repository_name = 'discord-datamining'
 g = Github(github_token)
 repo = g.get_user().get_repo(repository_name)
 
-ptb_path = "./build/ptb/"
-canary_path = "./build/canary/"
-stable_path = "./build/stable/"
+ptb_path = "./build/ptb"
+canary_path = "./build/canary"
+stable_path = "./build/stable"
 
 
 

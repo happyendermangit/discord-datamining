@@ -23,6 +23,11 @@ jobs:
         env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - name: Setup git
+        run: |
+          git config --local user.email "happyendermangit@github.com"
+          git config --local user.name "|__.JS.__|"
+          
       - name: Push content
         run: |
           git add ./ptb || git commit -am "✅ PTB Builds updated!"

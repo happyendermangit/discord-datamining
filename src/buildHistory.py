@@ -37,4 +37,4 @@ stable = save_html('https://discord.com/app', stable_path)
 
 branch_name = "main"  
 
-os.system("git diff-index --quiet HEAD || git commit -am "✅ Data updated!"')
+os.system("git diff-index --quiet HEAD || git commit -am "Builds updated!"')

@@ -3,6 +3,9 @@ import os
 from github import Github
 
 def commit_changes(repo, branch_name, commit_message, folder_path):
+    github_token = os.getenv('ACCESS_TOKEN')
+    g = Github(github_token)
+    repo = g.get_user().get_repo(repo)
     branch = repo.get_branch(branch_name)
     head_commit = branch.commit
     tree = head_commit.commit.tree

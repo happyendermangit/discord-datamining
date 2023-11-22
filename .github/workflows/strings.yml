@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests bs4 jsbeautifier PyGithub
-    - name: Lint with flake8
+    - name: Run script
       run: |
         python ./src/strings.py
       env:

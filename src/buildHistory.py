@@ -6,7 +6,7 @@ def save_html(url, path):
     response = requests.get(url)
     build_id = response.headers.get('X-Build-Id')
     html_content = response.text
-    if os.path.isfile(path + "/"+build_id) == False:
+    if os.path.isdir(path + "/"+build_id) == False:
         os.mkdir(path + "/"+build_id)
     with open(path + "/"+build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:
         f.write(html_content)

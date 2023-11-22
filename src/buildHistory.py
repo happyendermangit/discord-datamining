@@ -34,15 +34,7 @@ canary = save_html('https://canary.discord.com/app', canary_path)
 
 stable = save_html('https://discord.com/app', stable_path)
 
-ptb_commit_msg = f"✅ PTB builds updated ({ptb})"
-canary_commit_msg = f"✅ Canary builds updated ({canary})"
-stable_commit_msg = f"✅ Stable builds updated ({stable})"
-
-
 
 branch_name = "main"  
 
-os.system(f'git add ./builds/ptb || git commit -am "{ptb_commit_msg}"') 
-os.system(f'git add ./builds/canary || git commit -am "{canary_commit_msg}"') 
-os.system(f'git add ./builds/stable || git commit -am "{stable_commit_msg}"') 
-
+os.system("git diff-index --quiet HEAD || git commit -am "✅ Data updated!"')

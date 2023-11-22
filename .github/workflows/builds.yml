@@ -31,6 +31,10 @@ jobs:
         env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
- 
+      - name: set email
+        run: |
+          git config --local user.email "happyendermangit@github.com"
+          git config --local user.name "happyendermangit"
+
       - name: commit
         run: git commit -am "✅ Data updated!" 

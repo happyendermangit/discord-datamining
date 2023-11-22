@@ -42,7 +42,6 @@ def compareStrings(before,after):
 
     return diff + "```"
 
-from github import Github
 
 def commit_to_github(new_content):
 
@@ -61,6 +60,8 @@ def commit_to_github(new_content):
 
 
 def add_comment_to_commit(commit_sha, comment):
+    
+    g = Github(GITHUB_TOKEN)
     repo = g.get_user().get_repo("discord-datamining")
     commit = repo.get_commit(commit_sha)
     commit.create_comment(comment)

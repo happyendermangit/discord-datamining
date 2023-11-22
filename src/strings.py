@@ -61,23 +61,11 @@ def commit_to_github(new_content):
 
 
 def add_comment_to_commit(commit_sha, comment):
+    repo = g.get_user().get_repo("discord-datamining")
+    commit = repo.get_commit(commit_sha)
+    commit.create_comment(comment)
 
-    print(commit_sha)
-
-    headers = {
-        "content-type":"application/json"
-    }
-    j = {
-        'content': comment
-    }
-
-    response = requests.post(WEBHOOK, headers=headers, json=j)
-
-    if response.status_code == 201:
-        print("Comment added successfully.")
-    else:
-        print(f"Failed to add comment. Status code: {response.status_code}")
-        print(response.text)
+    
 
 
 html = requests.get('https://canary.discord.com/login').text 

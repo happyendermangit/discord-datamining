@@ -28,7 +28,7 @@ jobs:
       - name: Run script
         run: |
           python ./src/buildHistory.py
-          ls ptb
+          git diff-index --quiet HEAD || git commit -am "✅ Data updated!" 
         env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

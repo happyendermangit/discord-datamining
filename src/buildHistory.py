@@ -29,10 +29,8 @@ def save_html(url, path):
     response = requests.get(url)
     build_id = response.headers.get('X-Build-Id')
     html_content = response.text
-
-    os.mkdir(path + build_id)
-
-    with open(path + build_id + '/index.html', 'a+', encoding="utf-8") as f:
+    
+    with open(path + f'/{build_id}.html', 'a+', encoding="utf-8") as f:
         f.write(html_content)
 
     return build_id 

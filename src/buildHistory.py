@@ -26,7 +26,7 @@ def save_html(url, path):
         date_now = current_datetime.strftime("%A, %B %Y,%w %H:%M:%S")
 
         b = Build(build_id,path.split('/')[1],date_now,html_content).__dict__
-        builds.push(b)
+        builds.append(b)
         with open(path + "/"+build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:
             f.write(html_content)
         with open(path + "/"+build_id+"/" +"build.json", 'a+') as json_file:

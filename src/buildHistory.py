@@ -4,7 +4,7 @@ import json
 from github import Github
 from datetime import datetime
 
-builds = requests.get("https://raw.githubusercontent.com/happyendermangit/discord-datamining/main/strings.json").json()
+builds = requests.get("https://raw.githubusercontent.com/happyendermangit/discord-datamining/main/builds.json").json()
 
 
 

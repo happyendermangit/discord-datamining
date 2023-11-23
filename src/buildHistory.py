@@ -25,7 +25,7 @@ def save_html(url, path):
         current_datetime = datetime.now()
         date_now = current_datetime.strftime("%A, %B %Y,%w %H:%M:%S")
 
-        b = Build(build_id,path.split('/')[1],date_now,html_content).__dict__
+        b = Build(build_id,path.split('/')[2],date_now,html_content).__dict__
         builds.append(b)
         with open(path + "/"+build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:
             f.write(html_content)

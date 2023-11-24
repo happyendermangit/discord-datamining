@@ -69,7 +69,7 @@ function main(){
                     
                 }
                 console.log(r)
-                fs.writeFile('./classes.json',JSON.stringify(r), err => {
+                fs.writeFile('./classes.json',JSON.stringify(r,null,4), err => {
                     if (err) {
                         console.log('Error writing file', err)
                     } else {

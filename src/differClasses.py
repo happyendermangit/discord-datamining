@@ -44,7 +44,7 @@ def compare(username, repository, token):
             if parent != commit:
                 diff = compareClasses(parent,commit)
                 g = Github(token)
-                repo = g.get_user().get_repo("discord-datamining")
+                repo = g.get_repo("happyendermangit/discord-datamining")
                 commit = repo.get_commit(commits[0]['sha'])
                 commit.create_comment(diff)
             else:

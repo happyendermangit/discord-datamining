@@ -62,7 +62,7 @@ def commit_to_github(new_content):
 def add_comment_to_commit(commit_sha, comment):
     
     g = Github(GITHUB_TOKEN)
-    repo = g.get_user().get_repo("discord-datamining")
+    repo = g.get_repo("happyendermangit/discord-datamining")
     commit = repo.get_commit(commit_sha)
     commit.create_comment(comment)
 

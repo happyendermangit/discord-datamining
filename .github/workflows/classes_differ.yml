@@ -6,6 +6,13 @@ on:
 
 jobs:
   comments:
+    permissions:
+      contents: write
+      packages: write
+      pull-requests: write
+      issues: write
+      statuses: write
+      deployments: write
     name: Classes differ
     runs-on: ubuntu-latest
     steps:

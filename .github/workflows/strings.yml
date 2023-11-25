@@ -8,7 +8,13 @@ on:
 
 jobs:
   build:
-
+    permissions:
+      contents: write
+      packages: write
+      pull-requests: write
+      issues: write
+      statuses: write
+      deployments: write
     runs-on: ubuntu-latest
 
     steps:
@@ -25,5 +31,5 @@ jobs:
         python ./src/strings.py
       env:
           WEBHOOK: ${{ secrets.WEBHOOK }}
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

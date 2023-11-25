@@ -47,7 +47,7 @@ def commit_to_github(new_content):
 
     g = Github(GITHUB_TOKEN)
     
-    repo = g.get_user().get_repo("discord-datamining")
+    repo = g.get_repo("happyendermangit/discord-datamining")
     
     contents = repo.get_contents("strings.json")
     

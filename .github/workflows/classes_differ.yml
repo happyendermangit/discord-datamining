@@ -22,4 +22,4 @@ jobs:
           python ./src/differClasses.py
         env:
             WEBHOOK: ${{ secrets.WEBHOOK }}
-            ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+            ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -23,7 +23,7 @@ def save_html(url, path):
         
         os.mkdir(path + "/"+build_id)
         current_datetime = datetime.now()
-        date_now = current_datetime.strftime("%A, %B %Y,%w %H:%M:%S")
+        date_now = current_datetime.strftime("%A, %B %Y,%d %H:%M:%S")
 
         b = Build(build_id,path.split('/')[2],date_now,html_content).__dict__
         builds.append(b)

@@ -6167,6 +6167,7 @@
     "GUILD_BOOSTING_USER_SETTINGS_PUBLIC_SERVER_CTA": "Explore servers",
     "GUILD_BOOSTING_USER_SETTINGS_UNAPPLIED_GUILD_BOOST_DESCRIPTION": "Looks like this Boost could use a new home!",
     "GUILD_BOOSTING_USER_SETTINGS_NO_AVAILABLE_GUILD_BOOST_SLOTS": "Oh no! You don't have any available Boosts.",
+    "GUILD_BOOSTING_USER_SETTINGS_APPLIED_GUILD_BOOST_UNKNOWN_GUILD": "Unknown Server",
     "GUILD_BOOSTING_USER_SETTINGS_PERK_TEMPLATE": "This Boost helped unlock **{perk}** for everyone",
     "GUILD_BOOSTING_USER_SETTINGS_PERK_EMOJI_SLOTS": "{numEmojiSlots} emoji slots",
     "GUILD_BOOSTING_USER_SETTINGS_PERK_STICKER_SLOTS": "{numStickerSlots} sticker slots",

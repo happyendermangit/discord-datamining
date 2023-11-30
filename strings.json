@@ -15790,6 +15790,7 @@
     "CLIPS_SETTINGS_VIEWERSIDE_CLIPS_TOGGLE": "Allow viewers to capture clips",
     "CLIPS_SETTINGS_VIEWERSIDE_CLIPS_TOGGLE_DESCRIPTION": "If this is on, viewers can take clips of your stream.",
     "CLIPS_SETTINGS_HW_ENCODING_MUST_BE_ENABLED_INFOBOX": "To use Clips, enable hardware encoding. Find it in [Voice & Video settings](onClick).",
+    "CLIPS_PROCESSING_BADGE": "Processing...",
     "SOUND_INCOMING_RING_HALLOWEEN": "Halloween Incoming Ring",
     "CUSTOM_SOUNDS": "Custom Sounds",
     "ENABLE_PHONE_INTEGRATION": "Enable integration with the Phone app to experience this.",

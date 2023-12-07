@@ -96,6 +96,7 @@
     "MY_ARCHIVED_THREADS": " => \"/channels/\".concat(_, \"/users/@me/threads/archived/private\"",
     "THREAD_SEARCH": " => \"/channels/\".concat(_, \"/threads/search\"",
     "FORUM_POSTS": " => \"/channels/\".concat(_, \"/post-data\"",
+    "VOICE_CHANNEL_NOTIFICATIONS": " => \"/channels/\".concat(_, \"/voice-push\"",
     "PARTNER_REQUIREMENTS": " => \"/partners/\".concat(_, \"/requirements\"",
     "USER_BANNER": "_, E, R) => \"/users/\".concat(_, \"/banners/\").concat(E, \".\").concat(R",
     "USER_PROFILE_EFFECTS": "/user-profile-effects",

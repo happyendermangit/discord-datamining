@@ -142,6 +142,7 @@
     "FORUM_TAGS": " => \"/channels/\".concat(_, \"/tags\"",
     "FORUM_TAG": "_, E) => \"/channels/\".concat(_, \"/tags/\").concat(E",
     "FRIEND_FINDER": "/friend-finder/find-friends",
+    "FRIEND_FINDER_VIEWED_SUGGESTIONS": "/friend-finder/viewed-suggestions",
     "FRIEND_FINDER_HIDE_INVITE_SUGGESTION": "/friend-finder/hide-invite-suggestion",
     "FRIEND_SUGGESTIONS": "/friend-suggestions",
     "FRIEND_SUGGESTION": " => \"/friend-suggestions/\".concat(_",

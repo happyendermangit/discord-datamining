@@ -568,6 +568,7 @@
     "CLYDE_PROFILES_GENERATE_PERSONALITY": "/clyde-profiles/generate-personality",
     "POLL_ANSWERS": "_, E) => \"/channels/\".concat(_, \"/polls/\").concat(E, \"/answers\"",
     "PREMIUM_MARKETING": "/premium-marketing",
+    "QUESTS_CURRENT_QUESTS": "/quests/@me",
     "APP_WITH_INVITE_AND_GUILD_ONBOARDING": " => \"/app/invite-with-guild-onboarding/\".concat(_",
     "ACTIVITIES_HAPPENING_NOW": "/activities/happening-now",
     "ACTIVITY_DETAILS": " => \"/activities/\".concat(_",

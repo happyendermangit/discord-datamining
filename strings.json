@@ -627,6 +627,7 @@
     "REPORT_SECOND_LOOK": "/report-review",
     "COLLECTIBLES_SHOP": "/shop",
     "COLLECTIBLES_SHOP_FULLSCREEN": "/shop/fullscreen",
+    "COLLECTIBLES_SHOP_PRODUCT_DETAIL": " => \"/shop/product/\".concat(_",
     "API_DOCS": "\".concat(window.GLOBAL_ENV.MARKETING_ENDPOINT, \"/developers/docs/intro\"",
     "API_DOCS_GAME_AND_SERVER_MANAGEMENT": "\".concat(window.GLOBAL_ENV.MARKETING_ENDPOINT, \"/developers/docs/game-and-server-management/alpha-and-beta-testing\"",
     "API_DOCS_APPLICATION_SKUS_INDEX": " => \"\".concat(window.GLOBAL_ENV.MARKETING_ENDPOINT, \"/developers/applications/\").concat(_, \"/skus\"",

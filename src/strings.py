@@ -75,12 +75,14 @@ soup = BeautifulSoup(html,"html.parser")
 
 scripts = soup.find_all('script')
 
+code =""
 srcs = [script.get('src') for script in scripts if script.get('src')]
 for script in srcs:
     r = requests.get('https://canary.discord.com/'+script)
     if "229353: function" in r: 
         code = jsbeautify(r.text)
-        strings = scrapeStrings(code)
+        
+strings = scrapeStrings(code)
         
 
 oldStrings = requests.get('https://raw.githubusercontent.com/happyendermangit/discord-datamining/main/strings.json')

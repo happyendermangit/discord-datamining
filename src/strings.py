@@ -79,7 +79,7 @@ code =""
 srcs = [script.get('src') for script in scripts if script.get('src')]
 for script in srcs:
     r = requests.get('https://canary.discord.com/'+script)
-    if "229353: function" in r.text: 
+    if "DISCORD_DESC_SHORT:" in r.text: 
         code = jsbeautify(r.text)
         
 strings = scrapeStrings(code)

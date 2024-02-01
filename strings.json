@@ -608,6 +608,8 @@
     "DOWNLOAD_DESKTOP_FOOTER": "Want some of that fresh off-the-vine Discord? [Get the public test build](htt",
     "TAR_GZ": "Tar",
     "WINDOWS_32_BIT_DEPRECATED_WARNING": "Your version of Windows is out of date. Update it to continue receiving Discord updates and technical support. [Learn more about system requirements]({helpCenterLink})",
+    "WINDOWS_7_8_DEPRECATED_WARNING": "Your version of Windows is out of date. Update it to continue receiving Discord updates and technical support. [Learn more about system requirements]({helpCenterLink})",
+    "MACOS_DEPRECATED_WARNING": "Your version of macOS is out of date. Update it to continue receiving Discord updates and technical support. [Learn more about system requirements]({helpCenterLink})",
     "EMBEDDED_ACTIVITIES_LEAVE_ACTIVITY": "Leave Activity",
     "EMBEDDED_ACTIVITIES_LEAVE": "Leave",
     "EMBEDDED_ACTIVITIES_JOIN_ACTIVITY": "Join Activity",

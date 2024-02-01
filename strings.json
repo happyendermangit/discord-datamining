@@ -114,7 +114,6 @@
     "PAGINATION_NEXT": "Next",
     "PAGINATION_PAGE_LABEL": "Page {pageNumber}",
     "PAGINATION_SLIDE_LABEL": "Slide {pageNumber}",
-    "SEARCH_EXPERIMENTAL": "Search (Experimental)",
     "AUTOCOMPLETE_NO_RESULTS_HEADER": "Nope!",
     "AUTOCOMPLETE_NO_RESULTS_BODY": "Did you make a typo?",
     "AUTOCOMPLETE_STICKERS_QUERY_MATCH": "Similar ",

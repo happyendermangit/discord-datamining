@@ -4428,6 +4428,7 @@
     "BOT_PROFILE_SLASH_COMMANDS": "Try my commands",
     "BOT_PROFILE_UPGRADE_CTA": "Upgrade",
     "BOT_PROFILE_BENEFITS_HEADING": "Unlocked Premium Features",
+    "BOT_PROFILE_VIEW_ALL_COMMANDS_CTA": "View All Commands",
     "OAUTH2_CONNECT_TO_DISCORD": "Connect to Discord",
     "OAUTH2_TITLE": "Authorize access to your account",
     "OAUTH2_CANNOT_READ_SEND_NOTICE": "This application **cannot** read your messages or send messages as you.",

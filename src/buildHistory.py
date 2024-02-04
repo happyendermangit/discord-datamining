@@ -29,7 +29,7 @@ def save_html(url, path):
         r = requests.post(os.getenv('BUILDSWEBHOOK'),headers={"content-type":"application/json"},json={
             "embeds":[{
                 "title":f"New build  — {buildType}",
-                "color": {"stable": 2511871, "ptb": 14639994, "canary": 16734758}.get(buildType, 14639994)
+                "color": {"stable": 2511871, "ptb": 14639994, "canary": 16734758}.get(buildType, 14639994),
                 "fields":[
                     {
                         "name": "Build hash",

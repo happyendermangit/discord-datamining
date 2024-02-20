@@ -15787,6 +15787,7 @@
     "DOMAIN_VERIFICATION_USE_DNS": "Verify using DNS",
     "DOMAIN_VERIFICATION_INSTRUCTIONS_HTTP": "Create a new file on your websi",
     "CLIP_TAG": "Clip (Beta)",
+    "CLIP_TAG_MOBILE": "CLIP",
     "CLIPS_CLIPPING": "Clipping",
     "CLIPS_SETTINGS": "Clips Settings",
     "CLIPS_SETTINGS_TOP_SUBHEADER": "Change settings for clipping",

@@ -26,25 +26,6 @@ def save_html(url, path):
         date_now = current_datetime.strftime("%A, %B %Y,%d %H:%M:%S")
         unixTime = datetime.timestamp(current_datetime)
         buildType = url.split('discord.com')[0].split('//')[1].replace('.','')
-        r = requests.post(os.getenv('BUILDSWEBHOOK'),headers={"content-type":"application/json"},json={
-            "embeds":[{
-                "title":f"New build  — {buildType}",
-                "color": {"stable": 2511871, "ptb": 14639994, "canary": 16734758}.get(buildType, 14639994),
-                "fields":[
-                    {
-                        "name": "Build hash",
-                        "value": build_id,
-                        "inline": True
-                    },
-                     {
-                        "name": "Build At",
-                        "value": f"<t:{unixTime}:F> (<t:{unixTime}:R>)",
-                        "inline": True
-                    },
-                ]
-            }]
-        })
-        
         b = Build(build_id,path.split('/')[2],date_now,html_content).__dict__
         builds.append(b)
         with open(path + "/"+build_id+"/" +f'index.html', 'a+', encoding="utf-8") as f:

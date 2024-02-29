@@ -15864,6 +15864,8 @@
     "INAPPROPRIATE_CONVERSATION_ACTION_REPORTED": "Reported",
     "INAPPROPRIATE_CONVERSATION_ACTION_CONTACT_CTL": "Contact Crisis Text Line",
     "INAPPROPRIATE_CONVERSATION_SAFETY_TOOLTIP": "This conversation may not be safe.",
+    "INAPPROPRIATE_CONVERSATION_INITIAL_TOOLTIP": "Take action to protect yourself.",
+    "INAPPROPRIATE_CONVERSATION_INITIAL_TOOLTIP_ANNOUNCEMENT": "Take action to protect yourself by opening safety tools.",
     "INAPPROPRIATE_CONVERSATION_SAFETY_TOOLTIP_ANNOUNCEMENT": "This conversation may not be safe. Open safety tools to take action.",
     "INAPPROPRIATE_CONVERSATION_BLOCK_THEM": "Block them",
     "INAPPROPRIATE_CONVERSATION_UNBLOCK": "Unblock",

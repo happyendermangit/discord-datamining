@@ -15990,6 +15990,7 @@
     "POLL_CHOOSE_SINGLE_ANSWER_PROMPT": "Choose an Answer",
     "POLL_SUBMIT_VOTE": "Vote",
     "POLL_VOTES_COUNT": "{count, plural, one {{count} vote} other {{count} votes}}",
+    "POLL_VOTES_COUNT_CAPTIAL": "{count, plural, one {{count} Vote} other {{count} Votes}}",
     "POLL_ALREADY_VOTED": "Voted",
     "POLL_EDIT_VOTE": "Change Vote",
     "POLL_REMOVE_VOTE": "Remove Vote",

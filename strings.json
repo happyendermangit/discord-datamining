@@ -121,6 +121,8 @@
     "PAGINATION_NEXT": "Next",
     "PAGINATION_PAGE_LABEL": "Page {pageNumber}",
     "PAGINATION_SLIDE_LABEL": "Slide {pageNumber}",
+    "MUTE_ALT": "Turn Off Microphone",
+    "UNMUTE_ALT": "Turn On Microphone",
     "AUTOCOMPLETE_NO_RESULTS_HEADER": "Nope!",
     "AUTOCOMPLETE_NO_RESULTS_BODY": "Did you make a typo?",
     "AUTOCOMPLETE_STICKERS_QUERY_MATCH": "Similar ",

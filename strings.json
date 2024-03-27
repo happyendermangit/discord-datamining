@@ -271,6 +271,7 @@
     "FORM_HELP_SLOWMODE_FORUM": "Members will be restricted to creating one post per this interval, unless they have Manage Channel or Manage Messages permissions.",
     "FORM_LABEL_SLOWMODE_COOLDOWN": "Slowmode Cooldown",
     "FORM_LABEL_SLOWMODE_OFF": "Slowmode is off.",
+    "FORM_LABEL_SLOWMODE_SEARCH_PLACEHOLDER": "Select a default or enter a custom duration!",
     "CANNOT_DELETE_CHANNEL": "Cannot Delete Channel",
     "DELETE_RULES_CHANNEL_BODY": "Community Servers are required to have a rules channel.",
     "DELETE_DEFAULT_CHANNEL_BODY": "Deleting this channel will make your server incompatible with Community Onboarding.",

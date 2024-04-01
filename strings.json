@@ -16162,6 +16162,7 @@
     "SAFETY_HUB_CLASSIFICATION_DETAIL_HEADER_V2": "You broke the rules for $[!!{classification_type}!!](classificationHook).",
     "SAFETY_HUB_CLASSIFICATION_DETAIL_HEADER_V3": "You broke Discord's rules for $[!!{classification_type}!!](classificationHook)",
     "SAFETY_HUB_CLASSIFICATION_DETAIL_HEADER_GUILD": "Your server {guildName} broke Discord's rules for $[!!{classification_type}!!](classificationHook)",
+    "SAFETY_HUB_CLASSIFICATION_DETAIL_HEADER_GUILD_PRESENCE": "A server you joined, {guildName}, broke Discord's rules for $[!!{classification_type}!!](classificationHook)",
     "SAFETY_HUB_CLASSIFICATION_DETAIL_EVIDENCE_HEADER": "YOUR RECENT ACTIVITY",
     "SAFETY_HUB_CLASSIFICATION_DETAIL_ACTIONS_TAKEN_HEADER": "WE TOOK THESE ACTIONS",
     "SAFETY_HUB_CLASSIFICATION_DETAIL_ACTIONS_TAKEN_HEADER_V2": "What this means for you",

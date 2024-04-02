@@ -16702,6 +16702,7 @@
     "PACKAGES_OPEN_PACKAGE_CONFIRM": "Confirm",
     "PACKAGES_OPEN_PACKAGE_ITEM_OPENED": "You got a **{item}**",
     "PACKAGES_OPEN_PACKAGE_ITEM_OPENED_AN": "You got an **{item}**",
+    "PACKAGES_REDUCED_MOTION_NOTE": "For the full Loot Box opening experience, turn off reduced motion",
     "PACKAGES_BADGE": "A clown, for a limited time",
     "PACKAGES_PACKAGES_OPENED": "Your Boxes Opened",
     "PACKAGES_UNIQUE_PACKAGES_OPENED": "Rewards Received",

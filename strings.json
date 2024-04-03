@@ -16476,6 +16476,8 @@
     "POLL_LURKING_SEE_VOTES_TITLE": "You can't see votes on this poll yet!",
     "POLL_LURKING_UNVOTE_TITLE": "You can't remove your vote unless you're a member.",
     "POLL_LURKING_UNVOTE_SUBTITLE": "You have to re-join the community before you can use polls again.",
+    "POLL_GUILD_MEMBER_UNVERIFIED_TITLE": "You can't vote on this poll yet!",
+    "POLL_GUILD_MEMBER_UNVERIFIED_SUBTITLE": "You must complete the verification steps required by this server.",
     "POLL_NOT_INTERACTIVE": "View original message to interact",
     "POLL_NO_VOTES_FOR_ANSWER_TITLE": "Nothing to see here",
     "POLL_NO_VOTES_FOR_ANSWER_BODY": "There are no votes for this answer.",

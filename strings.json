@@ -15029,6 +15029,8 @@
     "COLLECTIBLES_SHY_COACHTIP_DESCRIPTION": "New VALORANT looks for styling on your enemies.",
     "COLLECTIBLES_SHY_PROFILE_UPSELL_BANNER_TITLE": "Fresh looks. Clean aim. Must be VALORANT.",
     "COLLECTIBLES_SHY_PROFILE_UPSELL_BANNER_SUBTITLE": "Keep your profile looking clutch with new avatar decorations and profile effects.",
+    "COLLECTIBLES_LOFI_VIBES_COACHTIP_TITLE": "Lofi Vibes",
+    "COLLECTIBLES_LOFI_VIBES_COACHTIP_DESCRIPTION": "For when you want that \"study & chill\" look",
     "COLLECTIBLES_NEW_BADGE": "NEW",
     "INVENTORY_EMOJI_DETAILS_V2": "See emoji details",
     "PRIVATE_CHANNEL_INTEGRATION_ADDED": "$[!!{username}!!](usernameHook) added the $[!!{otherUsername}!!](otherUsernameHook) app. See our [help center]({helpCenterLink}) for more info.",

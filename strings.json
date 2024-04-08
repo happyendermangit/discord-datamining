@@ -17138,6 +17138,7 @@
     "CLAN_APPLICATION_CANT_REMOVE_FIELD": "Clan applications must have at least one non-rules question.",
     "MEMBER_VERIFICATION_ANSWER_PLACEHOLDER": "Enter your answer",
     "MEMBER_VERIFICATION_USERS_APPLICATION": "!!{username}!!'s application",
+    "CLAN_APPLICATION_GDM_CONSENT": "By submitting this, you give the server admins permission to message you regarding your application.",
     "SIGNUP_BUTTON_TOOLTIP_CTA": "Click to preview",
     "SIGNUP_COMPLETE_CTA": "Sign Up",
     "SIGNUP_EMAIL_PROMPT": "Confirm your email to secure your spot on the waitlist",

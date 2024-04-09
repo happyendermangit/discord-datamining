@@ -17101,6 +17101,8 @@
     "CLAN_SETUP_IDENTITY_INTRO_SUBTITLE": "In this step, we will be creating your Clan's brand by setting up your Clan's tag, badge, colors, and more!",
     "CLAN_SETUP_APPLICATION_INTRO_TITLE": "Set up Clan Applications to keep your Clan safe.",
     "CLAN_SETUP_APPLICATION_INTRO_SUBTITLE": "One last step! We will help you create rules and application questions to screen applicants and filter out bad actors.",
+    "CLAN_SETUP_APPLICATION_TITLE": "This is the application you will use to screen users before they are admitted into your Clan.",
+    "CLAN_SETUP_APPLICATION_SUBTITLE": "Applications need at least one question. You will also have the opportunity to chat with applicants via GDM if you need more information from them.",
     "CLAN_SETUP_GAMES_TITLE": "What games does your Clan play?",
     "CLAN_SETUP_GAMES_SUBTITLE": "You can always add more games later.",
     "CLAN_SETUP_GAMES_SEARCH_PLACEHOLDER": "Search for a game...",

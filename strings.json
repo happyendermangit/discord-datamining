@@ -7309,8 +7309,6 @@
     "BILLING_REFUND_PURCHASE_DATE_SUBHEADER": "Purchase Date",
     "BILLING_REFUND_RELEASE_DATE_SUBHEADER": "Release Date",
     "BILLING_REFUND_PURCHASE_DATE": "{daysSincePurchase, plural, =0 {Today} =1 {{daysSincePurchase} day ago} other {{daysSincePurchase} days ago}}",
-    "BILLING_REFUND_PLAY_TIME_SUBHEADER": "Time Played",
-    "BILLING_REFUND_PLAY_TIME_NEVER_PLAYED": "Never played",
     "BILLING_REFUND_MODAL_HEADER": "Submit Refund",
     "BILLING_REFUND_MODAL_HEADER_ERROR": "Something went wrong",
     "BILLING_REFUND_ERROR": "Looks like there was a problem when we tried to refund your purcha",

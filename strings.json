@@ -15048,6 +15048,8 @@
     "COLLECTIBLES_DAYS_LEFT": "{days} days left",
     "COLLECTIBLES_LAST_DAY": "Last day to buy",
     "COLLECTIBLES_SHOP_VIEW_ALL": "View all",
+    "COLLECTIBLES_MOBILE_SHOP_DAYS_LEFT": "{days, number}D LEFT",
+    "COLLECTIBLES_MOBILE_SHOP_HOURS_LEFT": "{hours, number}H LEFT",
     "COLLECTIBLES_SFA_TITLE": "The Shop is now open to you!",
     "COLLECTIBLES_SFA_STARTER_BANNER_DESCRIPTION": "Collect these sweet, bonus items when you join Nitro! $[Unlock with Nitro](getPremium)",
     "COLLECTIBLES_SFA_HERO_BANNER_SUBTITLE": "Charming. Fierce. Hungry. Whatever your vibe, buy and collect your favorite styles for your profile for any occasion.",

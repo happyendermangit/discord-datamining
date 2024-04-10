@@ -7400,6 +7400,7 @@
     "BILLING_PREMIUM_TIER_0_PLAN_ACTIVATED": "You can now use your favorite emoji anywhere, share bigger files, and more.",
     "BILLING_PREMIUM_TIER_1_PLAN_ACTIVATED": "You now have access to your favorite emoji that you can use anywhere, more ways to style your profile, and so much more! Enjoy friend.",
     "BILLING_PREMIUM_TIER_2_PLAN_ACTIVATED": "You now have access to your favorite emoji that you can use anywhere, more ways to style all your profiles across each of your servers, bigger uploads, and so much more! Enjoy friend.",
+    "BILLING_RESUME_PAUSED_SUBSCRIPTION_IMMEDIATELY": "Your subscription will resume immediately",
     "BILLING_ERROR_SECTION_CARD": "Uh oh! Looks like there is an issue with this card. Please fix the fields and try again!",
     "BILLING_ERROR_UNSUPPORTED_CURRENCY": "Your payment method does not support the eligible currencies. Please add another payment method and set it to default.",
     "BILLING_ERROR_SECTION_ADDRESS": "Uh oh! Looks like there is an issue with this address. Please fix the fields and try again!",

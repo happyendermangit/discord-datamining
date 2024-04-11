@@ -14576,7 +14576,7 @@
     "REFERRAL_PROGRAM_TWO_WEEK_TRIAL": "2-WEEK TRIAL",
     "REFERRAL_PROGRAM_START_TRIAL": "Start Trial",
     "REFERRAL_PRORAM_PAYMENT_MODAL_BANNER": "{userName} has shared a Nitro trial with you",
-    "REFERRAL_PROGRAM_PAYMENT_MODAL_COPY": "Your 2-week trial will end on {endDate}. Choose a plan for after your 2-week trial ends.",
+    "REFERRAL_PROGRAM_PAYMENT_MODAL_COPY": "Your **2-week trial** will end on {endDate, date, short}. Choose a plan for after your 2-week trial ends.",
     "REFERRAL_PROGRAM_EMBED_HEADER": "{senderUserName} gave {recipientUserName} a Nitro trial!",
     "REFERRAL_PROGRAM_EMBED_BODY": "Start your 2-week trial of Nitro to try out custom profiles, animated emoji, and more!",
     "REFERRAL_PROGRAM_SELECT_FRIENDS_NO_RESULTS_HEADER": "Hmm... No Results",

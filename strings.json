@@ -9940,7 +9940,7 @@
     "EMOJI_POPOUT_STANDARD_EMOJI_DESCRIPTION": "A default emoji. You can use this emoji everywhere on Discord.",
     "TEST_NEWLINES_KEY": "\\nThis is a test string, let's see if we can preserve newlines.\\n\\n  ",
     "POLLS_MARKETING_EASTER_EGG_PIZZA_EMOJI_DESCRIPTION": "{emojiName} (without pineapple)",
-    "POLLS_MARKETING_EASTER_EGG_LOADING_LINE": "The Discord community has officially voted, and the verdict is in \u2014 pineapple does not belong on pizza!",
+    "POLLS_MARKETING_EASTER_EGG_LOADING_LINE": "Statistically speaking, the majority of Discord users believe that pineapple and pizza is the most cursed food combo. Thank our Polls feature launch for this Discord Fact\u2122.",
     "LOADING_DID_YOU_KNOW": "Did you know",
     "LOADING_LINE_1": "Discord was almost called Bonfire before we picked our name. It was meant to be nice and cozy.",
     "LOADING_LINE_2": "Discord was almost called Wyvern before we picked our name. Not too proud of that one.",

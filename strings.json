@@ -17215,7 +17215,7 @@
     "CLAN_START_INTERVIEW": "Start Interview",
     "CLAN_JOIN_INTERVIEW": "Join Interview",
     "CLAN_APPLICATION_SETUP_HEADER": "Set up the member screening application for **!!{guildName}!!** here. The application must have at least one Short Answer, Paragraph, or Multiple Choice section.",
-    "CLAN_APPLICATION_CANT_REMOVE_FIELD": "Applications must have at least question.",
+    "CLAN_APPLICATION_CANT_REMOVE_FIELD": "Applications must have at least one question.",
     "MEMBER_VERIFICATION_ANSWER_PLACEHOLDER": "Enter your answer",
     "MEMBER_VERIFICATION_USERS_APPLICATION": "!!{username}!!'s application",
     "CLAN_APPLICATION_GDM_CONSENT": "By applying, you give the guild admins permission to message you regarding your application.",

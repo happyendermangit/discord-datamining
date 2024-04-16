@@ -17178,6 +17178,8 @@
     "CLAN_SETUP_TAG_PLACEHOLDER": "GGEZ",
     "CLAN_SETUP_SIGN_TITLE": "You're almost done!",
     "CLAN_SETUP_SIGN_SUBTITLE": "One last step - sign the charter to become a Clan.",
+    "CLAN_SETUP_OPTIONAL": "Optional",
+    "CLAN_SETUP_WILDCARDS_SUBTITLE": "How would you describe your Guild in three words? Be creative.",
     "CLAN_PRIMETIME_PLACEHOLDER": "Day",
     "CLAN_PRIMETIME_MONDAY": "Monday",
     "CLAN_PRIMETIME_TUESDAY": "Tuesday",

@@ -6489,6 +6489,8 @@
     "CHURN_DISCOUNT_CONFIRM_DISCOUNT": "Confirm Discount",
     "CHURN_DISCOUNT_REDEMPTION_ERROR": "Something went wrong. Try again.",
     "PREMIUM_TIER_CARD_ANNUAL_DISCOUNT_HEADER": "Your **{percent, number}% discount** will end 1 year after purchase. After that you'll be charged **{regularPrice}**, + applicable taxes.",
+    "BILLING_ANNUAL_DISCOUNT_PAYMENT_MODAL_INFO": "Your first year of Nitro is **{discountedPrice}**. After that it will be **{regularPrice}, billed yearly.**",
+    "BILLING_ANNUAL_DISCOUNT_YEARLY_PRICE": "{discountedPrice} / year\\n\\n{regularPrice}/year after first year",
     "PREMIUM_TIER_CARD_TRIAL_HEADER_BEFORE_REDEMPTION_NEW": "Try {planName} for {duration} on us. Then !!{price}!!.",
     "PREMIUM_TIER_CARD_TRIAL_HEADER_AFTER_REDEMPTION": "Your **free trial ends {remainingTime, plural, =0 {today} one {in # day} other {in # days}}**. After that, you\u2019ll be charged !!{price}!!.",
     "PREMIUM_TIER_CARD_TRIAL_ACTIVATED": "free trial activated",

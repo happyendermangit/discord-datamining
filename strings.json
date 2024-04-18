@@ -17307,6 +17307,7 @@
     "CLAN_DISCOVERY_GAMES_SEARCH_PLACEHOLDER": "Look for a Game...",
     "CLAN_DISCOVERY_GAMES_SELECTED": "Selected Games",
     "CLAN_DISCOVERY_TRAIT_OVERFLOW": "+ {count, number} more",
+    "CLAN_DISCOVERY_UNKNOWN_PLAYSTYLE": "Unknown",
     "CHANGE_LANGUAGE_MODAL_TITLE_SPANISH": "\\xbfCambiar idioma?",
     "CHANGE_LANGUAGE_MODAL_SUBTITLE_SPANISH": "\\xbfTe gustar\\xeda configurar Discord en Espa\\xf1ol?",
     "YES_TEXT_SPANISH": "S\\xed",

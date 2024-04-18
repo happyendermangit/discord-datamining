@@ -10853,6 +10853,7 @@
     "COUNTRY_NAME_ZW": "Zimbabwe",
     "INACCESSIBLE_CHANNEL_LINK_TITLE": "You don't have access to this link.",
     "INACCESSIBLE_CHANNEL_LINK_SUBTITLE": "This link is to a server or channel you don't have access to.",
+    "INACCESSIBLE_USER_LINK_SUBTITLE": "This link is to a user you don't have access to.",
     "CREATION_INTENT_TITLE": "Tell Us More About Your Server",
     "CREATION_INTENT_DESCRIPTION": "In order to help you with your setup, is your new server for just a few friends or a larger community?",
     "CREATION_INTENT_OPTION_FRIENDS": "For me and my friends",

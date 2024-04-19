@@ -16792,6 +16792,8 @@
     "STOREFRONT_DURABLE_AVAILABILITY": "1 / 1 Available",
     "STOREFRONT_DURABLE_AVAILABILITY_NONE": "0 / 1 Available",
     "STOREFRONT_MUST_LOGIN": "Login to browse store",
+    "STOREFRONT_VIEW_TOS_PP": "View [Terms of Service]({tosUrl}) and [Privacy Policy]({ppUrl})",
+    "STOREFRONT_NO_TOS_PP": "This developer has not setup terms of service and privacy policy.",
     "QUIET_MODE_DISABLED": "Focus Mode Disabled",
     "QUIET_MODE_ENABLED": "Focus Mode Enabled",
     "QUIET_MODE_DND": "Focus Mode (DND) Enabled",

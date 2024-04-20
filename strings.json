@@ -15142,6 +15142,8 @@
     "COLLECTIBLES_SHY_PROFILE_UPSELL_BANNER_SUBTITLE": "Keep your profile looking clutch with new avatar decorations and profile effects.",
     "COLLECTIBLES_LOFI_VIBES_COACHTIP_TITLE": "Lofi Vibes",
     "COLLECTIBLES_LOFI_VIBES_COACHTIP_DESCRIPTION": "For when you want that \"study & chill\" look",
+    "COLLECTIBLES_GALAXY_COACHTIP_TITLE": "New Galaxy styles",
+    "COLLECTIBLES_GALAXY_COACHTIP_DESCRIPTION": "New arrivals just landed, and we don't mean aliens.",
     "COLLECTIBLES_NEW_BADGE": "NEW",
     "INVENTORY_EMOJI_DETAILS_V2": "See emoji details",
     "PRIVATE_CHANNEL_INTEGRATION_ADDED": "$[!!{username}!!](usernameHook) added the $[!!{otherUsername}!!](otherUsernameHook) app. See our [help center]({helpCenterLink}) for more info.",

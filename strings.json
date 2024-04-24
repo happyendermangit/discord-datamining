@@ -16853,7 +16853,6 @@
     "MEMBER_LIST_CONTENT_FEED_WATCH_SEASON_EPISODE": "S{seasonNum}E{episodeNum}",
     "MEMBER_LIST_CONTENT_FEED_RESURRECTED": "Returning",
     "MEMBER_LIST_CONTENT_FEED_MARATHON": "Marathon",
-    "MEMBER_LIST_CONTENT_FEED_PLAYED_FOR_HOURS": "Played for {hours}h",
     "MEMBER_LIST_CONTENT_FEED_STREAK_DAYS": "{days}x Streak",
     "MEMBER_LIST_CONTENT_POPOUT_USER_PLAYING": "$[{username}](nameHook) is playing",
     "MEMBER_LIST_CONTENT_POPOUT_USER_PLAYED": "$[{username}](nameHook) played",

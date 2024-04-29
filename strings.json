@@ -17321,6 +17321,7 @@
     "CLAN_USER_ADOPT_TAG_MODAL_CANCEL": "Not Now",
     "CLAN_USER_ADOPT_TAG_GUILD_PROFILE_CTA": "Don The Tag",
     "CLAN_USER_APPLY_TAG_GUILD_PROFILE_CTA": "Apply To Join",
+    "CLAN_USER_GO_TO_CLAN_CTA": "Go to Guild",
     "CLAN_USER_APPLICATION_EXISTS_TAG_GUILD_PROFILE_CTA": "View Application",
     "CLAN_USER_PROFILE_USE_CLAN_TAG": "Would you like to adopt the {guildName} guild tag as part of your identity?",
     "SIGNUP_BUTTON_TOOLTIP_CTA": "Click to preview",

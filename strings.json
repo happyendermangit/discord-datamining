@@ -1563,7 +1563,7 @@
     "GUILD_SETTINGS_MEMBER_VERIFICATION_ACTIONED_BY_HOOK": "By $[](usernameHook) on {date}",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_BAN_USER": "Ban User",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_REASON_TITLE": "Reason shared with user",
-    "GUILD_SETTINGS_MEMBER_VERIFICATION_TEXT_DESCRIPTION": "A free-form response with a 300 character limit.",
+    "GUILD_SETTINGS_MEMBER_VERIFICATION_TEXT_DESCRIPTION": "A free-form response with a 150 character limit.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_PARAGRAPH_DESCRIPTION": "A free-form response with a 1,000 character limit. Let them go wild.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_MANUAL_WARNING_TITLE": "Warni",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_MANUAL_WARNING_DESCRIPTION": "Adding this requirement will change your Member Requirements to require manual approval.",

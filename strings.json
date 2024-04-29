@@ -6375,6 +6375,8 @@
     "PREMIUM_SUBSCRIPTION_DESCRIPTION_TIER_2_ACCOUNT_HOLD_NO_PRICE": "Your premium chat, **{num, number}x** Boosts, and a Boost discount subscription is **on hold**",
     "PREMIUM_SUBSCRIPTION_DESCRIPTION_TIER_2_PENDING_PAYMENT": "You will have premium chat, **{num, number}** Boosts, and a Boost discount **as soon as your payment processes.** We will send you an email as soon as it does",
     "PREMIUM_SUBSCRIPTION_DESCRIPTION_DISCOUNT_APPLIED": "Your first **3 months** are **{discountedPrice}**. After that you'll be charged {price}/month",
+    "PREMIUM_SUBSCRIPTION_DESCRIPTION_PAST_DUE_WITH_HC_LINK": "Your subscription is **past due** and will **end on {endDate}**. [Learn more](onClick).",
+    "PREMIUM_SUBSCRIPTION_DESCRIPTION_PAST_DUE": "Your subscription is **past due** and will **end on {endDate}**.",
     "PREMIUM_WITH_PREMIUM_GUILD_EXTERNAL_PLAN_DESCRIPTION": "{premiumDescription} with {premiumGuildDescription}",
     "PREMIUM_GUILD_USER_FEATURES_HEADER": "Boost a server and g",
     "PREMIUM_GUILD_USER_FEATURE_MEMBER_BADGE": "A member list icon next to your name",

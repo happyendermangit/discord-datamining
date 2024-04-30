@@ -658,6 +658,7 @@
     "EMBEDDED_ACTIVITIES_UNLIMITED_PARTICIPANTS_SHORT": "Unlimited",
     "EMBEDDED_ACTIVITIES_LAUNCHING_ACTIVITY": "Launching activity",
     "EMBEDDED_ACTIVITIES_UNKNOWN_ACTIVITY_NAME": "Unknown",
+    "EMBEDDED_ACTIVITIES_LAUNCH_DISABLED_START": "You cannot launch an activity here",
     "EMBEDDED_ACTIVITIES_LAUNCH_FAILURE": "Failed to Launch Activity",
     "EMBEDDED_ACTIVITIES_LAUNCH_FAIL_GENERIC": "Unable to launch activity",
     "EMBEDDED_ACTIVITIES_LAUNCH_FAIL_ACCESS": "This server doesn't have access to the requested activity",

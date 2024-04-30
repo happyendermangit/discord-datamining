@@ -7307,7 +7307,7 @@
     "BILLING_PAYMENT_TABLE_HEADER_DESCRIPTION": "Description",
     "BILLING_PAYMENT_TABLE_HEADER_AMOUNT": "Amount",
     "BILLING_PURCHASE_DETAILS_HEADER": "Purchase Details",
-    "BILLING_DOWNLOAD_INVOICE_VAT": "Download VAT Invoice",
+    "BILLING_DOWNLOAD_INVOICE_VAT": "Download Tax Invoice",
     "BILLING_DOWNLOAD_REFUND_INVOICE": "Download VAT Credit Note",
     "BILLING_DOWNLOAD_INVOICE": "Download extended purchase receipt",
     "BILLING_DOWNLOAD_INVOICE_ADDRESS_OVERRIDE_TOGGLE": "Override Billing Address (Optional)",

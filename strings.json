@@ -16872,6 +16872,7 @@
     "MEMBER_LIST_CONTENT_FEED_TOP_GAME_WEEK_POPOUT": "{userName}'s top game this we",
     "MEMBER_LIST_CONTENT_FEED_WATCH_SEASON_EPISODE": "S{seasonNum}E{episodeNum}",
     "MEMBER_LIST_CONTENT_FEED_RESURRECTED": "Returning",
+    "MEMBER_LIST_CONTENT_FEED_RESURRECTED_AFTER": "Returning after {months, plural, =-1 {} =0 {} other {{months} months}}{weeks, plural, =-1 {} =0 {} other {{weeks} weeks}}{days, plural, =-1 {} =0 {} other {{days} days}}",
     "MEMBER_LIST_CONTENT_FEED_MARATHON": "Marathon",
     "MEMBER_LIST_CONTENT_FEED_ULTRA_MARATHON": "Ultra-Marathon",
     "MEMBER_LIST_CONTENT_FEED_EPIC_MARATHON": "Epic-Marathon",

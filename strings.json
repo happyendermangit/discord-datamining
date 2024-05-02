@@ -883,6 +883,7 @@
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_CONFIRM_TITLE": "You're about to test {activityName} for the first time.",
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_CONFIRM_SUBTITLE": "This app is not made by Discord. Only test apps from developers you trust.",
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_LEARN_MORE": "Learn more about private apps.",
+    "EMBEDDED_ACTIVITIES_DISALLOWED_NAVIGATION_ALERT_BODY": "The activity was closed because it tried to open a disallowed web page.",
     "APPLICATION_ICON_A11Y_LABEL": "App icon for {applicationName}",
     "APPLICATION_ICON_NO_NAME_A11Y_LABEL": "App icon",
     "APPLICATION_COMMAND_PRIMARY_ENTRY_POINT_USED_CANNOT_LAUNCH": "$[](userHook) started an activity",

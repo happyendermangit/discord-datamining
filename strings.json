@@ -12024,7 +12024,7 @@
     "USER_SETTINGS_EMAIL_CATEGORY_TIPS": "Tip Emails",
     "USER_SETTINGS_EMAIL_CATEGORY_TIPS_SUBLABEL": "Receive emails with helpful advice on how to use Discord and information on lesser known features.",
     "USER_SETTINGS_EMAIL_CATEGORY_RECOMMENDATIONS_AND_EVENTS": "Recommendations Emails",
-    "USER_SETTINGS_EMAIL_CATEGORY_RECOMMENDATIONS_AND_EVENTS_SUBLABEL": "Receive emails with recommended servers and suggested events such as exciting public stages.",
+    "USER_SETTINGS_EMAIL_CATEGORY_RECOMMENDATIONS_AND_EVENTS_SUBLABEL": "Receive emails with recommended servers and suggested events.",
     "EMAIL_CATEGORY_UNSUBSCRIBE_HEADER": "You\u2019re unsubscribed",
     "EMAIL_CATEGORY_UNSUBSCRIBE_EMAIL_BODY": "You have unsubscribed fr",
     "EMAIL_CATEGORY_MANAGE_SETTING_LABEL": "Manage your user settings.",

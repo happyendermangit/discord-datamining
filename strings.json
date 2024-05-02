@@ -9548,6 +9548,7 @@
     "PREMIUM_CUSTOM_NOTIFICATION_SOUND_ROADBLOCK_DESCRIPTION": "Access custom notification sounds, HD streaming, personalized profiles, and more with Nitro.",
     "PREMIUM_CUSTOM_NOTIFICATION_SOUND_COACHMARK_TITLE": "Personalize your notification sounds!",
     "PREMIUM_CUSTOM_NOTIFICATION_SOUND_COACHMARK_DESCRIPTION": "Assign custom notification sounds [Beta] to the servers & direct messages that matter most to you.",
+    "PREMIUM_CUSTOM_NOTIFICATION_SOUND_COACHMARK_DESCRIPTION_V2": "Assign custom notification sounds [Beta] in the **servers & DMs** that matter most to you.",
     "SOUNDPACK_DEFAULT_LABEL": "Discord Default",
     "SOUNDPACK_DEFAULT_DESCRIPTION": "Wumpus' Favorite",
     "SOUNDPACK_RETRO_LABEL": "Power up!",

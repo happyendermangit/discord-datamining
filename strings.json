@@ -166,6 +166,7 @@
     "CHARACTER_COUNT_AT_LIMIT": "Message is at max length",
     "CHARACTER_COUNT_CLOSE_TO_LIMIT": "{count} characters remaining",
     "CHARACTER_COUNT_OVER_LIMIT": "Message is too long",
+    "MESSAGE_UNSUPPORTED": "Message cannot be displayed by this version of the app.",
     "CHANNEL_SETTINGS_SUMMARIES_TOGGLE": "Enable Channel Summaries",
     "CHANNEL_SETTINGS_SUMMARIES_TOGGLE_DESCRIPTION": "If turned off, nobody will see the Summaries in this channel. [Learn More]({helpdeskArticle})",
     "CHANNEL_TOOLTIP_VOICE": "Voice",

@@ -13223,6 +13223,8 @@
     "GUILD_AUTOMOD_NOTIFICATION_MARK_AS_RESOLVED": "Mark as resolved",
     "GUILD_AUTOMOD_NOTIFICATION_MENTION_RAID_TITLE": "Unusual Mention Activity Detected",
     "GUILD_AUTOMOD_NOTIFICATION_MENTION_RAID_DESCRIPTION": "We're restricting some messages due to a potential mention raid.",
+    "GUILD_AUTOMOD_NOTFICATION_MODAL_BLOCKED_TITLE": "Modal Blocked",
+    "GUILD_AUTOMOD_NOTFICATION_MODAL_BLOCKED_DESCRIPTION": "Your last action failed because the application tried to open a modal that contained content blocked by this server.",
     "MEMBER_SAFETY_CHANNEL_TITLE": "Members",
     "MEMBER_SAFETY_TABLE_TITLE": "Recent Members",
     "MEMBER_SAFETY_TABLE_TITLE_SEARCH": "Search Results",

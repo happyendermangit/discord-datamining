@@ -16914,6 +16914,7 @@
     "MEMBER_LIST_CONTENT_POPOUT_USER_WATCHING": "$[{countOthers, plural, =0 {{user1} is} =1 {{user1} and {user2} are} other {{user1} and {countOthers} others are}}](nameHook) watching",
     "MEMBER_LIST_CONTENT_POPOUT_USER_WATCHED": "$[{countOthers, plural, =0 {{user1}} =1 {{user1} and {user2}} other {{user1} and {countOthers} others}}](nameHook) watched",
     "MEMBER_LIST_CONTENT_POPOUT_USER_STREAMING": "$[{countOthers, plural, =0 {{user1} is} =1 {{user1} and {user2} are} other {{user1} and {countOthers} others are}}](nameHook) streaming",
+    "MEMBER_LIST_CONTENT_POPOUT_BLOCKED_USER_WARNING": "Users you've blocked or muted are in this voice channel",
     "CONTENT_INVENTORY_MEMBERLIST_GROUP_TITLE": "Activity",
     "CONTENT_INVENTORY_MEMBERLIST_SETTINGS_HIDE": "Hide Activity Cards",
     "CONTENT_INVENTORY_MEMBERLIST_SETTINGS_ABOUT": "About Recent Activity",

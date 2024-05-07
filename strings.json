@@ -10364,7 +10364,7 @@
     "VIEW_AUDIT_LOG": "View Audit Log",
     "ROLE_PERMISSIONS_VIEW_AUDIT_LOG_DESCRIPTION": "Allows members to view a record of who made which changes in this server.",
     "VIEW_GUILD_ANALYTICS": "View Server Insights",
-    "ROLE_PERMISSIONS_VIEW_GUILD_ANALYTICS_DESCRIPTION": "Allows members to view Server Insights, which shows data on community growth, engagement, and more.",
+    "ROLE_PERMISSIONS_VIEW_GUILD_ANALYTICS_DESCRIPTION": "Allows members to view Server Insights, which shows data on community growth, engagement, and more. This will allow them to see certain data about channel activity, even for channels they cannot access.",
     "MANAGE_WEBHOOKS": "Manage Webhooks",
     "ROLE_PERMISSIONS_MANAGE_WEBHOOKS_DESCRIPTION": "Allows members to create, edit, or delete webhooks, which can post messages from other apps or sites into this server.",
     "MANAGE_SERVER": "Manage Server",

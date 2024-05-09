@@ -6130,6 +6130,7 @@
     "SEARCH_ANSWER_HAS_IMAGE": "image",
     "SEARCH_ANSWER_HAS_POLL": "poll",
     "SEARCH_ANSWER_HAS_VIDEO": "video",
+    "SEARCH_ANSWER_HAS_SNAPSHOT": "forward",
     "SEARCH_ANSWER_HAS_SOUND": "sound",
     "SEARCH_ANSWER_HAS_STICKER": "sticker",
     "SEARCH_CLEAR_HISTORY": "Clear Search History",

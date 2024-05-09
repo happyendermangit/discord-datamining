@@ -16993,6 +16993,7 @@
     "LIGHTNING_CHECKOUT_GENERIC_ERROR_DESCRIPTION": "Recheck your payment information, then try again.",
     "LIGHTNING_CHECKOUT_GENERIC_ERROR_CTA": "Manage Payment",
     "LIGHTNING_CHECKOUT_REVIEW_PURCHASE": "Review Purchase",
+    "LIGHTNING_CHECKOUT_PAY_CTA": "Pay {price}",
     "GUILD_POPOUT_ACTIVITY_EVENT_LOCATION": "Event in",
     "GUILD_POPOUT_ACTIVITY_EVENT_LOCATION_A11Y": "Event in {location}",
     "GUILD_POPOUT_ACTIVITY_EVENT_CREATED_BY": "Created by {creatorName}",

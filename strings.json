@@ -16944,6 +16944,7 @@
     "MEMBER_LIST_CONTENT_FEED_LISTENING_TO_MEDIA": "Listening to **{media}**",
     "MEMBER_LIST_CONTENT_FEED_LISTENED_TO_MEDIA": "Listened to **{media}**",
     "MEMBER_LIST_CONTENT_FEED_USER_LISTENING_TO_MEDIA_ARTIST": "{userName} is listening to **{media}** by **{artist}**",
+    "MEMBER_LIST_CONTENT_FEED_STREAK_TOOLTIP": "Played {days} days in a row",
     "MEMBER_LIST_CONTENT_POPOUT_USER_PLAYING": "{countOthers, plural, =0 {$[{user1}](nameHook) is} =1 {$[{user1}](nameHook) and $[{user2}](nameHook) are} other {$[{user1}](nameHook) and $[{countOthers}](nameHook) others are}} playing",
     "MEMBER_LIST_CONTENT_POPOUT_USER_PLAYED": "{countOthers, plural, =0 {$[{user1}](nameHook)} =1 {$[{user1}](nameHook) and $[{user2}](nameHook)} other {$[{user1}](nameHook) and $[{countOthers}](nameHook) others}} played",
     "MEMBER_LIST_CONTENT_POPOUT_USER_WATCHING": "{countOthers, plural, =0 {$[{user1}](nameHook) is} =1 {$[{user1}](nameHook) and $[{user2}](nameHook) are} other {$[{user1}](nameHook) and $[{countOthers}](nameHook) others are}} watching",

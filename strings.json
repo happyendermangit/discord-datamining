@@ -16744,7 +16744,7 @@
     "POLL_END_EARLY_CONFIRMATION_TITLE": "End Poll Now?",
     "POLL_END_EARLY_CONFIRMATION_TEXT": "This will close the poll immediately and reveal the results.",
     "POLL_SENT_NOTIFICATION": "[poll] !!{question}!!",
-    "POLL_RESULTS_NOTIFICATION": "Poll results are ",
+    "POLL_RESULTS_NOTIFICATION": "The poll !!{question}!! has closed",
     "POLL_RESULT_MESSAGE_HEADER": "The poll [!!{title}!!](titleOnClick) has closed.",
     "POLL_RESULT_REPLY_TEXT": "The poll **{title}** has closed",
     "POLL_RESULT_NO_VOTERS": "There was no winner",

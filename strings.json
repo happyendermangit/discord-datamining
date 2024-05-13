@@ -17515,6 +17515,7 @@
     "CLAN_DISCOVERY_UPSELL_GET_STARTED": "Get Started",
     "CLAN_DISCOVERY_UPSELL_JOIN_WFS": "Questions? Head over to the $[Wumpus Feedback Squad](wfsHook) server to ask Discord questions or give feedback!",
     "CLAN_DISCOVERY_UPSELL_JOIN_WFS_ARIA_LABEL": "Join Wumpus Feedback Squad server",
+    "CLAN_DISCOVERY_APPLICATION_DISABLED_TOOLTIP": "You cannot apply to Guilds right now",
     "CHANGE_LANGUAGE_MODAL_TITLE_SPANISH": "\\xbfCambiar idioma?",
     "CHANGE_LANGUAGE_MODAL_SUBTITLE_SPANISH": "\\xbfTe gustar\\xeda configurar Discord en Espa\\xf1ol?",
     "YES_TEXT_SPANISH": "S\\xed",

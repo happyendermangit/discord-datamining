@@ -9279,6 +9279,7 @@
     "CLAN_DISCOVERY_CARD_TAG_TOOLTIP": "Become a member to unlock this tag",
     "CLAN_USER_WAITLIST_TOAST_SUCCESS": "You have been added to the waitlist!",
     "CLAN_USER_WAITLISTED": "Waitlisted",
+    "CLAN_USER_WAITLIST_CTA": "Join Waitlist for Guilds",
     "GUILD_POPOUT_VIEW_SERVER_BUTTON": "View Server",
     "GUILD_POPOUT_UNAVAILABLE_HEADER": "This server is not available.",
     "GUILD_POPOUT_UNAVAILABLE_FLAVOR": "We can't show any further details.",

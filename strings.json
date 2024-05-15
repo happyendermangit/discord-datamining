@@ -4510,7 +4510,6 @@
     "OAUTH2_GO_TO_SERVER_DEFAULT_CTA": "Go to Server",
     "OAUTH2_IP_LOCATION_DISCLOSURE": "Developer may see your IP address while you use this application.",
     "OAUTH2_ADVERTISEMENTS_DISCLOSURE": "Developer may show ads while you use this application.",
-    "OAUTH2_UNKNOWN_DISCLOSURE": "Unknown Developer disclosure.",
     "SETTINGS_TWO_FA": "Multi-Factor Authentication",
     "TWO_FA": "Authenticator App",
     "TWO_FA_DESCRIPTION": "Configuring an authenticator app is a good way to add an extra layer of security to your Discord account to make sure that only you have the ability to log in.",

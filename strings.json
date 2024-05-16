@@ -17609,20 +17609,5 @@
     "PRODUCT_DETAILS": "Product Details",
     "SERVER_SUBSCRIPTION": "Server subscription",
     "USER_SUBSCRIPTION": "Personal subscription",
-    "MORE_BENEFITS": "+ {count, plural, one {# more benefit} other {# more benefits}",
-    "NON_STANDARD_CODES": "ew Set([\"AC\", \"AN\", \"DG\", \"EL\", \"IC\", \"MI\", \"TP\", \"WK\", \"XK\"]",
-    "US_TERRITORIES": "ew Set([\"AS\", \"GU\", \"MP\", \"PR\", \"VI\"]",
-    "FRANCE_AND_FRENCH_REGION": "ew Set([\"FR\", \"GF\", \"GP\", \"MQ\", \"NC\", \"PF\", \"PM\", \"RE\", \"TF\", \"WF\", \"YT\"]",
-    "VAT_EU_COUNTRIES": "ew Set([\"AT\", \"BE\", \"BG\", \"CY\", \"CZ\", \"DE\", \"DK\", \"EE\", \"EL\", \"ES\", \"FI\", \"FR\", \"GR\", \"HR\", \"HU\", \"IE\", \"IT\", \"LT\", \"LU\", \"LV\", \"MT\", \"NL\", \"PL\", \"PT\", \"RO\", \"SE\", \"SI\", \"SK\"]",
-    "VAT_COUNTRIES": "ew Set([\"AT\", \"AU\", \"BE\", \"BG\", \"CH\", \"CY\", \"CZ\", \"DE\", \"DK\", \"EE\", \"EL\", \"ES\", \"FI\", \"FR\", \"GR\", \"HR\", \"HU\", \"IE\", \"IT\", \"LT\", \"LU\", \"LV\", \"MT\", \"NL\", \"NO\", \"PL\", \"PT\", \"RO\", \"SE\", \"SI\", \"SK\"]",
-    "TAX_DOMESTIC": "ew Set([\"CA\", \"GB\", \"US\"]",
-    "EU_COUNTRIES": "ew Set([\"AD\", \"AL\", \"AT\", \"AX\", \"BA\", \"BE\", \"BG\", \"BY\", \"CH\", \"CY\", \"CZ\", \"DE\", \"DK\", \"EE\", \"EL\", \"ES\", \"FI\", \"FO\", \"FR\", \"GG\", \"GR\", \"HR\", \"HU\", \"IC\", \"IE\", \"IM\", \"IT\", \"JE\", \"LI\", \"LT\", \"LU\", \"LV\", \"MC\", \"MD\", \"MK\", \"MT\", \"NL\", \"NO\", \"PL\", \"PT\", \"RO\", \"RU\", \"SE\", \"SI\", \"SJ\", \"SK\", \"SM\", \"UA\", \"VA\"]",
-    "EEA_COUNTRIES": "ew Set([\"AT\", \"BE\", \"BG\", \"CY\", \"CZ\", \"DE\", \"DK\", \"EE\", \"EL\", \"ES\", \"FI\", \"FR\", \"GR\", \"HR\", \"HU\", \"IE\", \"IS\", \"IT\", \"LI\", \"LT\", \"LU\", \"LV\", \"MT\", \"NL\", \"NO\", \"PL\", \"PT\", \"RO\", \"SE\", \"SI\", \"SK\"]",
-    "DSA_COUNTRIES": "ew Set([\"AT\", \"BE\", \"BG\", \"CY\", \"CZ\", \"DE\", \"DK\", \"EE\", \"EL\", \"ES\", \"FI\", \"FR\", \"GR\", \"HR\", \"HU\", \"IE\", \"IT\", \"LT\", \"LU\", \"LV\", \"MT\", \"NL\", \"PL\", \"PT\", \"RO\", \"SE\", \"SI\", \"SK\"]",
-    "WITHOUT_POSTAL_CODES": "ew Set([\"AE\", \"AG\", \"AN\", \"AO\", \"AW\", \"BF\", \"BI\", \"BJ\", \"BM\", \"BO\", \"BQ\", \"BS\", \"BW\", \"BZ\", \"CD\", \"CF\", \"CG\", \"CI\", \"CK\", \"CM\", \"CW\", \"DJ\", \"DM\", \"ER\", \"FJ\", \"GA\", \"GD\", \"GH\", \"GM\", \"GQ\", \"GY\", \"HK\", \"HM\", \"IE\", \"JM\", \"KE\", \"KI\", \"KM\", \"KN\", \"KP\", \"LY\", \"ML\", \"MO\", \"MR\", \"MW\", \"NA\", \"NR\", \"NU\", \"QA\", \"RW\", \"SB\", \"SC\", \"SL\", \"SR\", \"ST\", \"SX\", \"SY\", \"TD\", \"TF\", \"TG\", \"TK\", \"TL\", \"TO\", \"TV\", \"UG\", \"VU\", \"YE\", \"ZA\", \"ZW\"]",
-    "TAX_EXCLUSIVE": "ew Set([\"CA\", \"US\"]",
-    "TAX_ADDRESS_REQUIRE_POSTAL_CODE": "ew Set([\"CA\", \"US\"]",
-    "NITRO_TAX_EXCLUSIVE_EXPERIMENT_STATES": "ew Set([\"TN\", \"WI\"]",
-    "NITRO_TAX_EXCLUSIVE_PHASE_1_STATES": "ew Set([\"IL\", \"NC\", \"NY\", \"OH\", \"PA\", \"TX\", \"VA\", \"WA\"]",
-    "NITRO_TAX_EXCLUSIVE_PHASE_2_STATES": "ew Set([\"AL\", \"AR\", \"AZ\", \"CO\", \"CT\", \"DC\", \"HI\", \"IA\", \"IN\", \"KS\", \"KY\", \"LA\", \"MA\", \"MD\", \"ME\", \"MI\", \"MN\", \"MO\", \"MS\", \"MT\", \"ND\", \"NE\", \"NH\", \"NJ\", \"NM\", \"OK\", \"RI\", \"SC\", \"SD\", \"UT\", \"VT\", \"WV\", \"WY\""
+    "MORE_BENEFITS": "+ {count, plural, one {# more benefit} other {# more benefits}"
 }

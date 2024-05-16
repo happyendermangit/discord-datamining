@@ -6148,6 +6148,7 @@
     "SEARCH_ANSWER_HAS_STICKER": "sticker",
     "SEARCH_CLEAR_HISTORY": "Clear Search History",
     "SEARCH_REMOVE_FROM_HISTORY_A11Y_LABEL": "Remove from Search History",
+    "SEARCH_STARTED_A11Y_ANNOUNCE": "Search Started",
     "SEARCH_CLEAR": "Clear search",
     "PAGINATION_PAGE_OF": "Page {page} of {totalPages}",
     "PREMIUM_NOT_VERIFIED": "Verify your email first",

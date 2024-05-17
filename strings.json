@@ -17357,6 +17357,7 @@
     "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LOCALE": "Region",
     "CLAN_SETUP_INTERESTS_TITLE": "What does your Guild like to talk about?",
     "CLAN_SETUP_INTERESTS_SUBTITLE": "Add at least **3 topics** that your Guild discusses or traits that you share. The more niche, the better! Here's some ideas, but you can write in your own.",
+    "CLAN_SETUP_INTERESTS_LABEL": "Add a topic",
     "CLAN_SETUP_INTERESTS_PLACEHOLDER": "Anime, Roman History, Sad Hamsters, etc...",
     "CLAN_SETUP_SELECTED_INTERESTS": "Selected Interests",
     "CLAN_SETUP_SUGGESTED_INTERESTS": "Some Ideas...",

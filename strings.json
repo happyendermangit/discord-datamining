@@ -14737,6 +14737,7 @@
     "REFERRAL_PROGRAM_FRIEND_SELECTION_HIT_LIMIT": "You've hit the {numReferrals} friend limit for this offer.",
     "REFERRAL_PROGRAM_SEARCH_FRIENDS": "Search friends",
     "REFERRAL_PROGRAM_LEARN_MORE_ABOUT_SHARING": "[Learn more]({helpdeskArticle}) about sharing Nitro trials.",
+    "REFERRAL_PROGRAM_PLAN_COMPARISON_ROW": "3 Nitro friend passes",
     "EMOJI_CATEGORY_TOP_GUILD_EMOJI": "Top Emoji in !!{guildName}!!",
     "TOP_GUILD_EMOJI_BADGE": "Popular",
     "NEWLY_ADDED_GUILD_EMOJI_BADGE": "Newly Added",

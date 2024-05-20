@@ -16915,6 +16915,7 @@
     "QUESTS_COMPLETION_PROGRESS_STARTED_V2": "Quest {percent} complete",
     "QUESTS_COMPLETION_COMPLETE": "Quest Completed!",
     "QUESTS_SHARE_LINK": "Copy Link to Quest",
+    "QUESTS_CLAIM_THE_REWARD_HOOK": "Claim the $[reward](rewardHook)",
     "FORM_HELP_SYSTEM_CHANNEL_DEADCHAT_PROMPT_MESSAGE": "Prompt members to chat after this channel has been inactive for a while.",
     "PROMPT_CAMERA_LOADING_TITLE": "What are you looking at?",
     "PROMPT_CAMERA_ERROR": "There was an issue taking a photo, try again",

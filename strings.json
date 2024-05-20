@@ -3146,7 +3146,7 @@
     "USER_SETTINGS_DELETE_AVATAR": "Delete Avatar",
     "USER_SETTINGS_UPLOAD_AVATAR": "Upload Avatar",
     "USER_SETTINGS_UPDATE_FAILURE": "Your username is invalid or contains invalid characters. You must update your username before you can change other user settings.",
-    "USER_SETTINGS_EDIT_PROFILE_GENERIC_ERROR": "There was a problem updating your account",
+    "USER_SETTINGS_EDIT_PROFILE_GENERIC_ERROR": "There was a problem updating your profile",
     "GUILD_SETTINGS_EDIT_PROFILE_GENERIC_ERROR": "There was a problem updating your server profile...",
     "USER_SETTINGS_SCAN_QR_CODE": "Scan QR Code",
     "USER_SETTINGS_EDIT_ACCOUNT_PASSWORD_LABEL": "Enter your password to confirm changes",

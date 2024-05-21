@@ -275,6 +275,8 @@
     "FORM_LABEL_SLOWMODE_OFF": "Slowmode is off.",
     "FORM_LABEL_SLOWMODE_SEARCH_PLACEHOLDER": "Select a default or enter a custom duration!",
     "CANNOT_DELETE_CHANNEL": "Cannot Delete Channel",
+    "CANNOT_PRIVATIZE_CHANNEL": "Cannot Make Channel Private",
+    "DESIGNATE_OTHER_CHANNEL_ONBOARDING_PRIVATE": "You must designate a replacement Default Channel in [Server Settings > Community > Onboarding](onClick) before this channel can be made private.",
     "DELETE_RULES_CHANNEL_BODY": "Community Servers are required to have a rules channel.",
     "DELETE_DEFAULT_CHANNEL_BODY": "Deleting this channel will make your server incompatible with Community Onboarding.",
     "DELETE_UPDATES_CHANNEL_BODY": "Community Servers are required to have a Community Updates channel where Discord can send important community server updates.",

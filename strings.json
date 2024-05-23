@@ -17104,6 +17104,7 @@
     "GUILD_POPOUT_EMPTY_PROMPT_HEADER": "No one's in voice yet",
     "GUILD_POPOUT_EMPTY_PROMPT_BODY": "Voice channels are for hanging out. When you're ready to talk, just hop in.",
     "GUILD_POPOUT_EMPTY_PROMPT_ARIA": "Hang out in !!{channelName}!!",
+    "RECENTLY_ONLINE": "Recently Online",
     "DISCORD_NAME": "Discord",
     "DEFAULT_CONFIRMATION_MODAL_HEADER": "Are you sure?",
     "ENGLISH_LANGUAGE": "English",

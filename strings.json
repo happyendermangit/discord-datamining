@@ -1862,6 +1862,7 @@
     "FORM_HELP_DISCOVERY_COVER_IMAGE": "This image will be displayed on your Discovery Listing. The recommended minimum size is 1920x1080 and recommended aspect ratio is ",
     "FORM_LABEL_DISCOVERY_RULES_CHANNEL": "Rules or guidelines channel",
     "GUILD_SETTINGS_DISCOVERY_DISQUALIFIED": "This server has been removed from Discovery.",
+    "GUILD_SETTINGS_DISABLE_DISCOVERABLE_PERMINENTLY": "Remove Discovery Permanently",
     "GUILD_SETTINGS_DISCOVERY_DISQUALIFIED_DESCRIPTION": "This server has failed to meet the requirements below and has been automatically removed from Discovery. Don't worry, you can rejoin once the server passes all requirements again.\\n\\nActivity requirements are recalculated weekly.",
     "GUILD_SETTINGS_DISCOVERY_ADMIN_ONLY": "Only server administrators can enable and disable Discovery.",
     "GUILD_SETTINGS_DISCOVERY_LOCALE_HELP": "Discord will prioritize this server in search to users who speak the selected language.",

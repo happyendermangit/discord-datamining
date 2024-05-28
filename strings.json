@@ -16990,6 +16990,7 @@
     "STOREFRONT_MUST_LOGIN": "Login to browse store",
     "STOREFRONT_VIEW_TOS_PP": "View the app's [Terms of Service]({tosUrl}) and [Privacy Policy]({ppUrl})",
     "STOREFRONT_NO_TOS_PP": "This developer has not setup terms of service and privacy policy.",
+    "STOREFRONT_DETAILS_TOS_AND_PRIVACY": "[Terms of Service]({tosUrl}) and [Privacy Policy]({ppUrl})",
     "QUIET_MODE_DISABLED": "Focus Mode Disabled",
     "QUIET_MODE_ENABLED": "Focus Mode Enabled",
     "QUIET_MODE_DND": "Focus Mode (DND) Enabled",

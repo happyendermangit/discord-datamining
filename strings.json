@@ -3568,6 +3568,7 @@
     "AUTOMATIC_GAIN_CONTROL": "Automatic Gain Control",
     "ADVANCED_VOICE_ACTIVITY": "Advanced Voice Activity",
     "USER_SETTINGS_DISABLE_ADVANCED_VOICE_ACTIVITY": "Turning this off may help if your voice is not being detected by the automatic input sensitivity.",
+    "USER_SETTINGS_AUTOMATIC_GAIN_CONTROL": "Automatically adjust microphone volume to keep it clear and consistent.",
     "EXPERIMENTAL_ENCODERS": "Experimental Encoders",
     "USE_SPEAKER": "Use speaker",
     "SWITCH_AUDIO_OUTPUT": "Change Audio Output",

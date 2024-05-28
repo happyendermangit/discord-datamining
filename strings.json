@@ -5941,6 +5941,8 @@
     "ACCESSIBILITY_SETTINGS_PROFILE_COLORS_TITLE": "Profile Colors",
     "ACCESSIBILITY_SETTINGS_PROFILE_THEMES_DESCRIPTION": "Sync profile themes",
     "ACCESSIBILITY_SETTINGS_PROFILE_THEMES_NOTE": "Make profiles sync with your Discord [theme](onThemeClick).",
+    "ACCESSIBILITY_SETTINGS_TAGS_TITLE": "Guild Tags",
+    "ACCESSIBILITY_SETTINGS_TAGS_LABEL": "Show guild tags next to names",
     "ACCESSIBILITY_SETTINGS_ROLE_STYLE_TITLE": "Role Colors",
     "ACCESSIBILITY_SETTINGS_ROLE_STYLE_DESCRIPTION": "Choose a display for role colors.",
     "ACCESSIBILITY_SETTINGS_ROLE_STYLE_USERNAME_LABEL": "Show role colors in names",

@@ -2715,6 +2715,8 @@
     "NOTIFICATION_REPLY_SUCCESS": "Replied to {recipient}",
     "NOTIFICATION_REPLY_FAILED": "Failed to reply to {recipient}",
     "NOTIFICATION_MUTE_1_HOUR": "Mute 1H",
+    "NOTIFICATION_MESSAGE_SEND_FAILED_TITLE": "Your message failed to send!",
+    "NOTIFICATION_MESSAGE_SEND_FAILED_BODY": "Tap this notification to return to the message and retry.",
     "MESSAGE_TTS": "!!{username}!! said !!{body}!!",
     "MESSAGE_TTS_REPLY": "!!{username}!! replied to !!{replyUsername}!! !!{body}!!",
     "MESSAGE_TTS_DELETED_ROLE": "Deleted Role",

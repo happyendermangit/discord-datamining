@@ -17574,6 +17574,7 @@
     "CLAN_APPLICATION_RATE_LIMITED_BUTTON": "Enter the chill zone",
     "CLAN_APPLICATION_MISSING_PERMISSION": "You don't have permission to join this Guild",
     "CLAN_BADGE": "Badge",
+    "CLAN_BADGE_ALT": " [{tag}]",
     "CLAN_BADGE_COLORS": "Badge Colors",
     "CLAN_TAG_VALIDATION_RULES": "Max 4 characters",
     "CLAN_LOOK_BRAND_COLOR": "Brand Color",

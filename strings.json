@@ -3305,6 +3305,7 @@
     "USER_SETTINGS_RESTART_APP_MOBILE": "Restart the app for your new settings to take effect.",
     "INSTALL_LOCATION_MAIN": "Main",
     "USER_SETTINGS_PRIVACY_TERMS": "Check out our [Terms of Service]({termsLink}) and [Privacy Policy]({privacyLink}).",
+    "USER_SETTINGS_PRIVACY_TERMS_SEARCHABLE": "Terms of service and privacy policy",
     "USER_SETTINGS_HYPESQUAD": "HypeSquad",
     "HYPESQUAD_HEADING": "Join the HypeSquad!",
     "HYPESQUAD_HEADING_EXISTING_MEMBER": "You're in HypeSquad!",

@@ -17714,6 +17714,7 @@
     "CLAN_MEMBER_APPLICATION_REPORT_REASON_OTHER_PLACEHOLDER": "Please provide more details",
     "CLAN_MEMBER_APPLICATION_REPORT_MODAL_HEADER": "Report Application",
     "CLAN_MEMBER_APPLICATION_REPORT_DESCRIPTION": "Report {username}'s application for the following reas",
+    "CLAN_MEMBER_APPLICATION_REPORT_BAN": "Ban {username} from this server. This will reject the current application.",
     "QUESTS_MOBILE_EMBED_UNKNOWN_TITLE": "This is an invalid quest",
     "QUESTS_MOBILE_EMBED_UNKNOWN_BODY": "Check to confirm you're using a valid quest URL",
     "CHANGE_LANGUAGE_MODAL_TITLE_SPANISH": "\\xbfCambiar idioma?",

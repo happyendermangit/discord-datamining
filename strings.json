@@ -5255,6 +5255,7 @@
     "STREAM_PREMIUM_UPSELL_WITH_ACTION": "Lift off with Discord Nitro to stream HD resolutions at 60 frames per second. [Learn more](onClick).",
     "STREAM_PREMIUM_UPSELL_CTA": "Subscribe",
     "STREAM_PREMIUM_UPSELL_SECONDARY_CTA": "View All Nitro Perks",
+    "STREAM_PREMIUM_VIEWER_UPSELL_MESSAGE": "{nickname} is streaming in HD ({resolution} {fps})",
     "STREAM_PRESET_DOCUMENTS_DESCRIPTION_NITRO": "The picture will be clear (Source) with a slow frame rate ({fps} FPS).",
     "STREAM_PRESET_VIDEO": "Smoother Video",
     "STREAM_PRESET_DOCUMENTS": "Better Text Readability",

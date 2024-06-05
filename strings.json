@@ -3557,6 +3557,7 @@
     "FORM_LABEL_INPUT_VOLUME": "Input Volume",
     "FORM_LABEL_OUTPUT_VOLUME": "Output Volume",
     "FORM_HELP_VOICE_VIDEO_TROUBLESHOOTING_GUIDE": "Need help with voice or video? Check out our [troubleshooting guide]({guideURL}).",
+    "FORM_HELP_VOICE_VIDEO_TROUBLESHOOTING_SEARCHABLE": "Voice and video troubleshooting guide",
     "FORM_LABEL_INPUT_MODE": "Input Mode",
     "INPUT_MODE_PTT": "Push to Talk",
     "INPUT_MODE_PTT_LIMITED": "Push to Talk (Limited)",

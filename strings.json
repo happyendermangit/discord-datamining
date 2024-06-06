@@ -14838,6 +14838,8 @@
     "REFERRAL_PROGRAM_SEARCH_FRIENDS": "Search friends",
     "REFERRAL_PROGRAM_LEARN_MORE_ABOUT_SHARING": "[Learn more]({helpdeskArticle}) about sharing Nitro trials.",
     "REFERRAL_PROGRAM_PLAN_COMPARISON_ROW": "3 Nitro friend passes",
+    "REFERRAL_PROGRAM_CONFIRMATION_ERROR_PAGE": "We were unable to send {userName} a trial. Please try again later.",
+    "REFERRAL_PROGRAM_CONFIRMATION_ERROR_PAGE_HEADER": "Hmm... Something went wrong",
     "EMOJI_CATEGORY_TOP_GUILD_EMOJI": "Top Emoji in !!{guildName}!!",
     "TOP_GUILD_EMOJI_BADGE": "Popular",
     "NEWLY_ADDED_GUILD_EMOJI_BADGE": "Newly Added",

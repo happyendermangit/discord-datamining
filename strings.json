@@ -17633,6 +17633,8 @@
     "CLAN_SETTINGS_APPLICATION_TITLE": "Edit questions for prospective members to answer.",
     "CLAN_SETTINGS_APPLICATION_SUBTITLE": "",
     "CLAN_DM_APPLICANT": "DM Applicant",
+    "CLAN_APPLICATION_MAX_MEMBER_LIMIT_TOOLTIP": "Guild is at maximum member limit",
+    "CLAN_MAX_MEMBER_LIMIT_WARNING": "Your Guild is at the {count} member maximum and cannot accept new applications.\\n\\nPrune inactive members or wait until there's space for more members.",
     "CLAN_APPLICATION_SETUP_HEADER": "Set up the member screening application for **!!{guildName}!!** here. The application must have at least one Short Answer, Paragraph, or Multiple Choice section.",
     "CLAN_APPLICATION_CANT_REMOVE_FIELD": "Applications must have at least one question.",
     "MEMBER_VERIFICATION_ANSWER_PLACEHOLDER": "Enter your answer",

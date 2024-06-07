@@ -6202,6 +6202,7 @@
     "SEARCH_REMOVE_FROM_HISTORY_A11Y_LABEL": "Remove from Search History",
     "SEARCH_STARTED_A11Y_ANNOUNCE": "Search Started",
     "SEARCH_CLEAR": "Clear search",
+    "SEARCH_MEDIA_IMAGE_DEFAULT_ALT": "Media Image",
     "PAGINATION_PAGE_OF": "Page {page} of {totalPages}",
     "PREMIUM_NOT_VERIFIED": "Verify your email first",
     "PREMIUM_NOT_VERIFIED_BODY": "Hey friend! If you want to make purchases, you\u2019ll need to verify your email first.",

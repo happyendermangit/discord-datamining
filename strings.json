@@ -16825,6 +16825,7 @@
     "QUESTS_REWARD_VERIFICATION_BODY": "We have sent a verification email ",
     "QUESTS_REWARD_VERIFICATION_ERROR": "Uh oh! We failed to send you a verification email.",
     "QUEST_REWARD": "Win {reward}",
+    "QUEST_REWARD_IN_HOUSE": "[Connect a console](onClick) to your Discord account and unlock {reward} for two months.",
     "QUEST_REWARD_TIERED": "The first {maxRewardCount} will win {maxReward}. Learn more about Quests in the [help center article]({helpCenterLink}).",
     "QUEST_REWARD_MULTIPLATFORM": "Play {gameTitle} for {streamingDurationRequirement, number} mins on desktop or [a connected console](onClick) and unlock {reward} for two months.",
     "QUEST_REWARD_COMPLETED": "You unlocked {reward} on {date}",

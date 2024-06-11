@@ -16889,6 +16889,7 @@
     "QUESTS_COMPLETION_PROGRESS_NOT_STARTED": "Ready when you are...",
     "QUEST_BAR_TITLE_START_PLAYING": "Start Playing!",
     "QUEST_BAR_SUBTITLE_PLAY_ANY_GAME": "Play a game for {targetMinutes, number} minutes and win {rewardNameWithArticle}.",
+    "QUEST_BAR_SUBTITLE_PLAY_GAME": "Play {gameTitle} for {targetMinutes, number} minutes and win {rewardNameWithArticle}.",
     "QUESTS_COMPLETION_PROGRESS_STARTED": "Keep it up!",
     "QUESTS_COMPLETION_PROGRESS_HALFWAY": "You're halfway there!",
     "QUESTS_COMPLETION_PROGRESS_ALMOST_COMPLETE": "You're so close!",

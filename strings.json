@@ -10661,7 +10661,7 @@
     "ROLE_PERMISSIONS_USE_EMBEDDED_ACTIVITIES_DESCRIPTION_CATEGORY": "Allows members to use Activities in these channels.",
     "ROLE_PERMISSIONS_USE_EXTERNAL_APPS": "Use External Apps",
     "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_GUILD_DESCRIPTION": "Allows apps that members have added to their account to post messages. When disabled, the messages will be private.",
-    "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_GUILD_DESCRIPTION_NOT_ENABLED_YET": "This feature is not enabled for this guild but will be soon. Stay tuned to Community Updates for an announcement!",
+    "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_GUILD_DESCRIPTION_NOT_ENABLED_YET": "This feature is not enabled for this server but will be soon. Stay tuned to Community Updates for an announcement!",
     "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_DESCRIPTION_CHANNEL": "Allows apps that members have added to their account to post messages in this channel. When disabled, the messages will be private.",
     "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_DESCRIPTION_CATEGORY": "Allows apps that members have added to their account to post messages in these channels. When disabled, the messages will be private.",
     "IOS_GUILD_DELETE_FEEDBACK_HEADER": "Why are you deleting this server?",

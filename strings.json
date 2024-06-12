@@ -7277,6 +7277,7 @@
     "PAYMENT_SOURCE_DELETE_DISABLED_TOOLTIP": "Cannot delete this payment source while you have an active Nitro subscription.",
     "PAYMENT_SOURCE_INVALID": "Invalid",
     "PAYMENT_SOURCE_INVALID_HELP": "We were unable to successfully charge this payment source. Please ensure the information is correct.",
+    "PAYMENT_SOURCE_ADD_SUCCESS_TOAST": "Payment Method saved!",
     "PAYMENT_SOURCE_SUBSCRIPTION": "Subscription",
     "PAYMENT_SOURCE_REDEMPTION_INVALID": "Sorry, This Payment Source Cannot Be Used for Redemption",
     "PAYMENT_SOURCE_VENMO_DETAILS": "Venmo Details",

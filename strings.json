@@ -5483,6 +5483,7 @@
     "LEAVE_CALL": "Leave Call",
     "NOT_NOW": "Not Now",
     "FOCUS_PARTICIPANT": "Focus This Person",
+    "FOCUS_PARTICIPANT_TARGETED": "Focus {targetName}",
     "UNFOCUS_PARTICIPANT": "Unfocus This Person",
     "GROUP_NAME": "Group Name",
     "CUSTOMIZE_GROUP": "Customize Group",

@@ -17720,7 +17720,7 @@
     "E2EE_CONNECTION": "Connection",
     "E2EE_PRIVACY": "Privacy",
     "E2EE_END_TO_END_ENCRYPTION": "End-to-end encryption",
-    "E2EE_OVERVIEW_TITLE": "End-to-end encrypted",
+    "E2EE_END_TO_END_ENCRYPTED": "End-to-end encrypted",
     "E2EE_OVERVIEW_SUBTITLE": "Only you and your friends on this call can hear you. Nobody else \u2013 not even Wumpus \u2013 can listen in!",
     "E2EE_OVERVIEW_FOOTER_TEXT": "A new code is generated when people join or leave this call. [Learn more about end-to-end encryption.]({helpArticle})",
     "E2EE_ENCRYPTION": "Encryption",

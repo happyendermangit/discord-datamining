@@ -16996,7 +16996,7 @@
     "QUESTS_MOBILE_HOME_VIEW_REWARD": "View Reward",
     "QUESTS_MOBILE_HOME_AWAITING_LAUNCH": "Waiting for {gameName} to launch on any connected console account...",
     "QUESTS_MOBILE_HOME_GAME_CONNECTED": "{gameName} Connected!",
-    "QUESTS_MOBILE_HOME_CONTINUE_PLAYING": "Continue playing for $[minutes](minutesHook) more minutes to claim your reward.",
+    "QUESTS_MOBILE_HOME_CONTINUE_PLAYING": "Continue playing for {minutesLeft, plural, =1 {$[{minutesLeft}](minutesHook) more minute} other {$[{minutesLeft}](minutesHook) more minutes}} to claim your reward.",
     "QUESTS_MOBILE_HOME_CLAIM_REWARD": "Claim your $[reward](rewardHook) before {date}.",
     "QUEST_MOBILE_QUEST_BAR_DISMISS_TOAST": "Find this Quest again in User Settings $[](arrowHook) Quests",
     "FORM_HELP_SYSTEM_CHANNEL_DEADCHAT_PROMPT_MESSAGE": "Prompt members to chat after this channel has been inactive for a while.",

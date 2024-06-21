@@ -2786,6 +2786,7 @@
     "FORM_LABEL_INVITE_LINK": "Invite link",
     "JOIN_SERVER_INVITE_EXAMPLES_HEADER": "Invites should look like",
     "JOIN_SERVER_INVITE_EXAMPLES_MOBILE_REFRESH": "Invites should look like $[!!{example1}!!](exampleHook), $[!!{example2}!!](exampleHook), or $[!!{example3}!!](exampleHook)",
+    "NOTICE_USER_DISCONNECTED": "User may be having trouble connecting to the call.",
     "NOTICE_CONNECTION_CONFLICT": "Your voice has been disconnected because you connected at another location.",
     "NOTICE_VOICE_CONNECTED_LAST_SESSION": "You were in a voice channel last time you left Discord.",
     "NOTICE_UNCLAIMED_ACCOUNT": "This is an unclaimed account. Claim it before it's lost.",

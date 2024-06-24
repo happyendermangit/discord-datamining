@@ -4888,6 +4888,7 @@
     "USER_DROPS_SETTINGS_DROPS_OPTED_OUT_FORMATTED": "Use information about how you use Discord such as what games you play to tell you about Quests or other in-game reward opportunities. [Learn more about it here.]({helpdeskArticle})",
     "USER_DM_SETTINGS_TITLE": "Server Privacy",
     "USER_DM_SETTINGS_DESCRIPTION": "Do you want to also apply this change to all your existing servers? You can also disable direct messages on individual servers by visiting that server's settings page.",
+    "SERVER_SPECIFIC_PRIVACY_SETTINGS": "Server Privacy Settings",
     "DROPS_REQUEST_FEEDBACK_OPT_OUT": "Quests is currently in beta - we'd like to learn more about why you turned it off. [Feedback Survey]({feedbackURL})",
     "DROPS_REQUEST_FEEDBACK_SUCCESS": "Quests is currently in beta - thanks for participating, now we'd like to hear from you! [Feedback Survey]({feedbackURL})",
     "DROPS_READ_BLOG_TO_ENABLE": "You must be looking for Discord Quests! If you\\'re seeing this message, we need to tweak some settings. To enable it, you\\'ll need to go to Settings -> Privacy & Safety and enable both \"Use data to customize my Discord experience\" and \"In-game rewards (aka Quests)\" settings.\\n\\n[Read more in our FAQs]({blogURL})",

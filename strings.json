@@ -9609,6 +9609,8 @@
     "USER_PROFILE_ACTIVITY_LISTENING_TO": "Listening to **{name}**",
     "USER_PROFILE_IN_GUILD_DETAILS": "in {guildName}",
     "USER_PROFILE_REMOVE_ROLE": "Remove Role",
+    "USER_PROFILE_SEND_REACTION": "Send Reaction",
+    "USER_PROFILE_REPLY": "Reply",
     "SERVER_INSIGHTS": "Server Insights",
     "GUILD_ANALYTICS_DESCRIPTION": "We\u2019ve put together a bunch of helpful data to help you better run your community. Learn how active your community is, where new members are coming from, and much more. Use what you learn to make informed decisions to improve your server\u2019s engagement!\\n\\nAnalytics about Announcement Channels, Server Discovery, and Welcome Screen also live here.",
     "GUILD_ANALYTICS_DEVELOPERS_CTA": "Server Insights is hosted on a separate website so that it\u2019s easier to share links and browse cross platform.",

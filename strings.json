@@ -17803,6 +17803,7 @@
     "E2EE_CHECK_PRIVACY_CODE": "Check this call's privacy code",
     "E2EE_VERIFIED": "Verified",
     "E2EE_USERNAME_VERIFIED": "{username} verified!",
+    "E2EE_CALL_DETAILS": "Call Details",
     "E2EE_USER_VERIFICATION_SUBTITLE": "Compare the numbers below with {username}. If they match, mark them as verified.",
     "E2EE_USER_VERIFICATION_FOOTER_TEXT": "A new code is generated when either of you join a call or change devices. [Learn more about end-to-end encryption.]({helpArticle})",
     "E2EE_RTC_PANEL_CALL_VERIFICATION_SUBTITLE": "Only you and your friends on this call can hear you. Nobody else \u2013 not even Wumpus \u2013 can listen in!",

@@ -13365,7 +13365,7 @@
     "MEMBERS_TABLE_MEMBER_SEARCH_LOADING": "Searching all members...",
     "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_SECONDS": "just now",
     "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_MINUTES": "{count} {count, plural, =1 {min} other {mins}} ago",
-    "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_HOURS": "{count} {count, plural, =1 {hr} other {hrs}} this week",
+    "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_HOURS": "{count} {count, plural, =1 {hr} other {hrs}} ago",
     "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_DAYS": "{count} {count, plural, =1 {day} other {days}} ago",
     "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_MORE_THAN_MONTH": "{count} {count, plural, =1 {month} other {months}} ago",
     "MEMBERS_TABLE_JOINED_AT_TIMESTAMP_MORE_THAN_YEAR": "{count} {count, plural, =1 {year} other {years}} ago",

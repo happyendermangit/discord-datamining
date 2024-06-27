@@ -17775,7 +17775,7 @@
     "CLAN_WELCOME_MESSAGE_9": "Roses are red, violets are blue, [!!{username}!!](usernameOnClick) just joined the Guild with you.",
     "ICYMI_TITLE": "In Case You Missed It",
     "ICYMI_SHORT_TITLE": "ICYMI",
-    "ICYMI_DESCRIPTION": "Interesting content from your servers that you might have missed.",
+    "ICYMI_DESCRIPTION": "Breeze through the best across all your servers",
     "ICYMI_SETTING_NAME": "Hide ICYMI tab",
     "ICYMI_END_TITLE": "$[ICYMI](icymiHook) $[\u2014](dashHook) All Caught Up!",
     "ICYMI_END_SUBTITLE": "Check back later for more new content!",

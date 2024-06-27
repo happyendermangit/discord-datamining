@@ -13811,6 +13811,7 @@
     "CONNECTIONS_CONNECT_ACCOUNTS_MODAL_ACCOUNT_CONNECTED_PRIVACY": "Privacy",
     "CONNECTIONS_CONNECT_ACCOUNTS_MODAL_ACCOUNT_CONNECTED_TOOLTIP": "This will only appear on your profile in channels where this role was added to permissions",
     "CONNECTIONS_CONNECT_ACCOUNTS_MODAL_ROLE_GRANTED": "Role granted!",
+    "CONNECTIONS_CONNECT_ACCOUNTS_MODAL_PLATFORM_DISABLED": "This platform is disabled",
     "CONNECTIONS_NUX_TITLE": "NEW! Connection Details",
     "CONNECTIONS_NUX_CONTENT": "You can now show off details from your Connections, like follower count or game stats on your profile! [Learn more.]({helpdeskArticle})",
     "LINKED_ROLES_ADMIN_NUX_TITLE": "Did you know?",

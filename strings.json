@@ -494,6 +494,7 @@
     "APP_LAUNCHER_SEARCH_PLACEHOLDER": "Search Apps & Commands",
     "APP_LAUNCHER_SEARCH_ACTIVITIES_PLACEHOLDER": "Search",
     "APP_LAUNCHER_HOME_EMPTY_STATE_BODY": "No apps have been installed in this server yet",
+    "APP_LAUNCHER_HOME_EMPTY_STATE_ACTIVITIES_BODY": "Failed to fetch activities",
     "APP_LAUNCHER_SEARCH_EMPTY_STATE_BODY": "No apps or commands match your search",
     "APP_LAUNCHER_SEARCH_EMPTY_STATE_ACTIVITIES_BODY": "No activities match your search",
     "APP_LAUNCHER_SEARCH_EMPTY_STATE_BODY_GENERIC": "Nothing matches your search",

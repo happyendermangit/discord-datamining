@@ -16002,6 +16002,8 @@
     "COLLECTIBLES_LAST_CHANCE": "Last Chance",
     "COLLECTIBLES_PROFILE_UPDATE_NOTIFICATION": "Your profile is updated!",
     "COLLECTIBLES_POPULAR_PICKS": "Popular Picks",
+    "COLLECTIBLES_AVATAR_DECO_UPDATED_NOTIFICATION": "Your avatar decoration is updated!",
+    "COLLECTIBLES_PFX_UPDATED_NOTIFICATION": "Your profile effect is updated!",
     "COLLECTIBLES_SFA_TITLE": "The Shop is now open to you!",
     "COLLECTIBLES_SFA_STARTER_BANNER_DESCRIPTION": "Collect these sweet, bonus items when you join Nitro! $[Unlock with Nitro](getPremium)",
     "COLLECTIBLES_SFA_HERO_BANNER_SUBTITLE": "Charming. Fierce. Hungry. Whatever your vibe, buy and collect your favorite styles for your profile for any occasion.",

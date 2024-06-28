@@ -18557,7 +18557,7 @@
     "ICYMI_ITEM_HEADER_SUBTITLE_INTERESTING": " posted something you might be interested in",
     "ICYMI_ITEM_HEADER_SUBTITLE_ANNOUNCEMENT": " posted an announcement",
     "ICYMI_ITEM_HEADER_SUBTITLE_FILE": " uploaded a file",
-    "ICYMI_ITEM_HEADER_SUBTITLE_SUMMARY": "A conversation about \u2014",
+    "ICYMI_ITEM_HEADER_SUBTITLE_SUMMARY": "**TL;DR** \u2014 A conversation abo",
     "ICYMI_CUSTOM_SCORING_OPTIONS": "Custom Sorting Options",
     "ICYMI_CUSTOM_SCORING_MORE_FROM_CHANNEL": "Show me more from this channel",
     "ICYMI_CUSTOM_SCORING_LESS_FROM_CHANNEL": "Show me less from this channel",

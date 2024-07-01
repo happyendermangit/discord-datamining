@@ -17987,8 +17987,6 @@
     "GUILD_POPOUT_USERS_IN_VOICE": "{username} and {count, plural, one {{count} other are} other {{count} others are}} in voice",
     "GUILD_POPOUT_USER_ON_VIDEO": "{username} is on video",
     "GUILD_POPOUT_USERS_ON_VIDEO": "{username} and {count, plural, one {{count} other are} other {{count} others are}} on video",
-    "RECENTLY_ONLINE": "Recently Online",
-    "RECENTLY_ONLINE_STATUS": "Online **{time} ago**",
     "MESSAGE_ACTION_FORWARD": "Forward",
     "MESSAGE_ACTION_FORWARD_TO": "Forward To",
     "MESSAGE_FORWARDED": "Forwarded",

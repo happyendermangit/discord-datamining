@@ -18632,7 +18632,7 @@
     "E2EE_CHECK_PRIVACY_CODE": "Check this call's privacy code",
     "E2EE_VERIFIED": "Verified",
     "E2EE_USERNAME_VERIFIED": "{username} verified!",
-    "E2EE_CALL_DETAILS": "Voice Details",
+    "E2EE_VIDEO_DETAILS": "Video Details",
     "E2EE_USER_VERIFIED_A11Y": "End-to-end encryption verified",
     "E2EE_CALL_VERIFIED_A11Y": "End-to-end encryption verified for all users in call",
     "E2EE_USER_VERIFICATION_SUBTITLE": "Compare the numbers below with {username}. If they match, mark them as verified.",

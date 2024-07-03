@@ -3958,6 +3958,7 @@
     "LOCAL_VIDEO_DISABLED": "Video disabled by you",
     "ROLES_LIST": "{numRoles, plural, =0 {No Roles} one {Role} other {Roles}}",
     "VIEW_ALL_ROLES": "View All Roles",
+    "COLLAPSE_ROLES": "Collapse Roles",
     "USER_VOLUME": "User Volume",
     "QUICK_DM_BLOCKED": "You cannot message blocked users",
     "QUICK_DM_USER": "Message @!!{name}!!",

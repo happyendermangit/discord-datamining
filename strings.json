@@ -3557,6 +3557,7 @@
     "LOG_IN_WITH_APP": "Log In with the App",
     "BEEP_BOOP": "Beep boop. Boop beep?",
     "TERMS_PRIVACY": "By registering, you agree to Discord's [Terms of Service]({termsURL}) and [Privacy Policy]({privacyURL}).",
+    "TERMS_PRIVACY_OPT_IN_CHECKBOX_LABEL": "I have read and agree to Discord's Term's of Service and Privacy Policy.",
     "TERMS_PRIVACY_OPT_IN": "I have read and agree to Discord's [Terms of Service]({termsURL}) and [Privacy Policy]({privacyURL}).",
     "TERMS_PRIVACY_ON_REGISTER": "By clicking {buttonText}, you agree to Discord's [Terms of Service]({termsURL}) and [Privacy Policy]({privacyURL}).",
     "TERMS_PRIVACY_ON_REGISTER_MOBILE": "By tapping {buttonText}, you agree to Discord's [Terms of Service]({termsURL}) and [Privacy Policy]({privacyURL}).",

@@ -17659,6 +17659,7 @@
     "QUESTS_IN_HOUSE_TITLE": "Console Gaming",
     "QUESTS_IN_HOUSE_TASK": "Connect a console and play any game for {minutes} minutes",
     "QUESTS_IN_HOUSE_TASK_WITH_LINK": "Play any game on a [connected console](onClick) for {minutes} minutes",
+    "QUESTS_CONSOLE_QUEST_TASK_WITH_LINK": "Play {gameTitle} on desktop or a [connected console](onClick) for {minutes} minutes",
     "QUESTS_UNLOCK_REWARDS": "Unlock Rewards",
     "QUESTS_CHECK_PROGRESS": "Check Progress",
     "QUESTS_JOIN_ME": "Join Me",

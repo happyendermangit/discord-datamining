@@ -145,6 +145,7 @@
     "CHANNEL_INTEGRATIONS": " => \"/channels/\".concat(e, \"/integrations\"",
     "CHANNEL_INTEGRATION": "e, t) => \"/channels/\".concat(e, \"/integrations/\").concat(t",
     "CHANNEL_SAFETY_WARNINGS_ACK": " => \"/channels/\".concat(e, \"/safety-warnings/ack\"",
+    "CHANNEL_BLOCKED_USER_WARNING_ACK": " => \"/channels/\".concat(e, \"/blocked-user-warning-dismissal\"",
     "FORUM_TAGS": "Tags",
     "FORUM_TAG": "e, t) => \"/channels/\".concat(e, \"/tags/\").concat(t",
     "FRIEND_FINDER": "/friend-finder/find-friends",

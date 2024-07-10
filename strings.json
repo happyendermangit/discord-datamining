@@ -18665,6 +18665,7 @@
     "QUESTS_MOBILE_EMBED_UNKNOWN_TITLE": "This is an invalid quest",
     "QUESTS_MOBILE_EMBED_UNKNOWN_BODY": "Check to confirm you're using a valid quest URL",
     "QUESTS_MOBILE_EMBED_UNSUPPORTED_TITLE": "This Quest is not available on mobile",
+    "QUESTS_REWARD_MODAL_FOOTER_IN_GAME_BODY": "{rewardName} is all yours! Open up the game to check it out.",
     "E2EE_ENCRYPTION": "Encryption",
     "E2EE_VERIFICATION_CODE": "Verification Code",
     "E2EE_VOICE_PRIVACY_CODE": "Voice Privacy Code",

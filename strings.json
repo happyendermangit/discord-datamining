@@ -17838,7 +17838,7 @@
     "QUESTS_MOBILE_HOME_LAUNCH_GAME": "Launch {gameName} and play for {durationMinutes} minutes to get {rewardName}",
     "QUESTS_MOBILE_HOME_VIEW_REQUIREMENTS": "View Requirements",
     "QUESTS_MOBILE_HOME_VIEW_REWARD": "View Reward",
-    "QUESTS_MOBILE_HOME_AWAITING_LAUNCH": "Waiting for {gameName} to launch on any connected console account...",
+    "QUESTS_MOBILE_HOME_AWAITING_LAUNCH": "Waiting for you to launch {gameName} on desktop or connected console...",
     "QUESTS_MOBILE_HOME_GAME_CONNECTED": "{gameName} Connected!",
     "QUESTS_MOBILE_HOME_CONTINUE_PLAYING": "Continue playing for {minutesLeft, plural, =1 {$[{minutesLeft} more minute](minutesHook)} other {$[{minutesLeft} more minutes](minutesHook)}} to claim your reward.",
     "QUESTS_MOBILE_HOME_CLAIM_REWARD": "Claim your $[reward](rewardHook) before {date}.",

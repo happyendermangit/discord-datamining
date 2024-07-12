@@ -373,6 +373,7 @@
     "STREAM_NOTIFY": " => \"/streams/\".concat(e, \"/notify\"",
     "GUILD_PREVIEW": " => \"/guilds/\".concat(e, \"/preview\"",
     "USER_AFFINITIES": "/users/@me/affinities/users",
+    "USER_AFFINITIES_V2": "/users/@me/affinities/v2/users",
     "GUILD_AFFINITIES": "/users/@me/affinities/guilds",
     "CHANNEL_AFFINITIES": "/users/@me/affinities/channels",
     "USER_BROADCASTS": "/users/broadcasts/bucket",

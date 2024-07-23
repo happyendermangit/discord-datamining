@@ -613,6 +613,7 @@
     "DELETE_SAFETY_WARNINGS": " => \"/channels/\".concat(e, \"/safety-warnings\"",
     "SAFETY_WARNING_FALSE_POSITIVE": " => \"/channels/\".concat(e, \"/safety-warning/report-false-positive\"",
     "MY_CONTENT_INVENTORY": " => \"/content-inventory/users/@me\".concat(null != e ? \"?refresh_token=\".concat(",
+    "CONTENT_INVENTORY_OUTBOX": " => \"/content-inventory/users/\".concat(e, \"/outbox\"",
     "MY_SPOTIFY_CONTENT_INVENTORY": "/content-inventory/users/@me/spotify",
     "MY_CONTENT_INVENTORY_APPLICATION": " => \"/content-inventory/users/@me/applications/\".concat(e",
     "TENURE_REWARD_SYNC": "/users/@me/tenure-reward/sync",

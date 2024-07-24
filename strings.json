@@ -17916,6 +17916,8 @@
     "QUESTS_MICROPHONE_UNIT_FOOTER_HELP_ARTICLE_SINGLE_V2": "See how to [configure your console](onClick) to participate in this quest.",
     "QUESTS_MICROPHONE_UNIT_FOOTER_HELP_ARTICLE_MULTI_V2": "See how to configure your [PSN online ID](onClickPlaystation) or [Xbox account](onClickXbox) to participate in this quest.",
     "QUESTS_COLLECTIBLES_TEMPORARY_COLLECTION": "This decoration is now yours until {expirationDate, date, short} and you can use it any time until then.",
+    "QUESTS_NO_AVAILABLE": "No Quests Available",
+    "QUESTS_AVAILABLE_SOON": "Hang tight, adventurer! New quests will be available soon.",
     "QUESTS_HOME_HERO_EYEBROW": "What are Quests?",
     "QUESTS_HOME_HERO_TITLE": "Play Games. Get Rewards.",
     "QUESTS_ENDED_ON_DATE": "Quest ended {expiryDate}",

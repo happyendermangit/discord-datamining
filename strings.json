@@ -713,6 +713,7 @@
     "DEVELOPER_PORTAL_EDIT_PAYOUTS": " => \"/developers/teams/\".concat(e, \"/payout-settings",
     "TEXT_PLAYGROUND": "Text Playground",
     "DESIGN_SYSTEMS": "Design System",
+    "INTL_TESTING": "Intl Testing",
     "CHANGE_LOG": "Change Log",
     "PREMIUM_GIFTING": "Nitro Gifting",
     "BLOCKED_USERS": "Blocked Users",

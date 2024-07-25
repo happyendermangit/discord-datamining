@@ -686,6 +686,7 @@
     "COLLECTIBLES_SHOP": "Shop",
     "COLLECTIBLES_SHOP_FULLSCREEN": "/shop/fullscreen",
     "COLLECTIBLES_SHOP_PRODUCT_DETAIL": " => \"/shop/product/\".concat(e",
+    "NITRO_HOME": "/store",
     "ACCOUNT_STANDING": "Account Standing",
     "CHANNEL_SUMMARIES": " => \"/channels/\".concat(e, \"/summaries\"",
     "CHANNEL_SUMMARY": "e, t) => \"/channels/\".concat(e, \"/summaries/\").concat(t",

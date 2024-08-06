@@ -881,6 +881,7 @@
     "CHANGE_AVATAR_OR_DECORATION_A11Y_LABEL": "Change Avatar or Decoration",
     "MINIMUM_SIZE": "Minimum Si",
     "AVATAR_CONVERT_FAILURE_MOBILE": "Unable to convert avatar to data URL. {avatarUrl}",
+    "CUSTOMIZE_PROFILE_SELECT_GIF": "Select GIF",
     "CHANGE_ICON": "Change\\nIcon",
     "CHANGE_SPLASH": "Change Background",
     "CHANGE_HOME_HEADER": "Change Home Header",

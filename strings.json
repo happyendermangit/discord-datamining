@@ -185,6 +185,7 @@
     "CONNECTIONS_LINK_DISPATCH_AUTH_CALLBACK": " => \"/connections/\".concat(e, \"/link-dispatch-auth-callback\"",
     "XBOX_HANDOFF": "/consoles/xbox-handoff",
     "MENTIONS_MESSAGE_ID": " => \"/users/@me/mentions/\".concat(e",
+    "CAPTCHA_TEST": "/captcha/decider",
     "LOGIN_MFA": " => \"/auth/mfa/\".concat(e",
     "LOGIN_SMS_SEND": "/auth/mfa/sms/send",
     "REMOTE_AUTH_INITIALIZE": "/users/@me/remote-auth",

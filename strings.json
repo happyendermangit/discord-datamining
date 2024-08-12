@@ -63,6 +63,7 @@
     "GUILD_DISCOVERY_CHECKLIST": " => \"/guilds/\".concat(e, \"/discovery-checklist\"",
     "GUILD_DISCOVERY_REQUIREMENTS": " => \"/guilds/\".concat(e, \"/discovery-requirements\"",
     "DISCOVERY_ALL_GAMES": "/discovery/games/all",
+    "DISCOVERY_RECOMMENDATIONS": "/discovery/recommendations",
     "GUILD_RECOMMENDATIONS": ") => \"/guild-recommendations",
     "GUILD_EMOJIS": " => \"/guilds/\".concat(e, \"/emojis\"",
     "GUILD_EMOJI": "e, t) => \"/guilds/\".concat(e, \"/emojis/\").concat(t",

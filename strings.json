@@ -672,6 +672,7 @@
     "DOWNLOAD_QR_CODE_REDIRECT": "/download-qr-code",
     "GLOBAL_DISCOVERY": "/discovery",
     "QUEST_HOME": "/discovery/quests",
+    "GLOBAL_DISCOVERY_SERVERS": "/discovery/servers",
     "GUILD_MEMBER_VERIFICATION_FOR_HUB": "e, t) => \"/member-verification-for-hub/\".concat(e).concat(null != t ? \"/\".concat(",
     "POPOUT_WINDOW": "/popout",
     "UPCOMING_STAGES": "e, t) => \"/guild-stages/\".concat(e).concat(null != t ? \"/\".concat(",

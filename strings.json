@@ -662,6 +662,7 @@
     "CONNECTION_LINK": " => \"/connections/\".concat(e, \"/link\"",
     "CONNECTION_LINK_AUTHORIZE": " => \"/connections/\".concat(e, \"/link-authorize\"",
     "CONNECTIONS_SUCCESS": " => \"/connections/\".concat(e, \"/success\"",
+    "CONNECTIONS_ERROR": " => \"/connections/\".concat(e, \"/error\"",
     "CONNECTIONS_AUTHORIZE_CONTINUE": " => \"/connections/\".concat(e, \"/authorize-continue\"",
     "CONNECT_AUTHORIZE": "/connect/authorize",
     "OAUTH2_AUTHORIZED": "/oauth2/authorized",

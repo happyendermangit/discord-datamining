@@ -7673,7 +7673,7 @@
     "REFERRAL_INCENTIVE_FRIEND_PASSES_REDEEMED": "Your friend passes have been redeemed! Get {discountRate} off your next {subscriptionInterval} when a friend becomes a paying member. [Learn more]({learnMoreLink}).",
     "REFERRAL_INCENTIVE_YOU_EARNED_DISCOUNT": "Score. You earned {discountRate} off your next {subscriptionInterval} of Nitro!",
     "REFERRAL_INCENTIVE_DISCOUNT_UNLOCKED": "Discount Unlocked!",
-    "REFERRAL_INCENTIVE_KEEP_SHARING_TO_EARN_ANOTHER_DISCOUNT": "Nice work. Keep sharing to earn another discount and more passes. [Learn more]({learnMoreLink}).",
+    "REFERRAL_INCENTIVE_KEEP_SHARING_TO_EARN_ANOTHER_DISCOUNT": "Nice work. Keep sharing to earn more passes and another discount. [Learn more]({learnMoreLink}).",
     "REFERRAL_INCENTIVE_NITRO_FRIEND_PASSES_INCOMING": "Nitro Friend Passes Incoming",
     "REFERRAL_INCENTIVE_FRIEND_PASS_COUNTDOWN_HAS_BEGUN": "The countdown has begun! You\u2019ll get more Nitro friend passes in {numberOfTimerPeriods} {timePeriodInterval}. [Learn more]({learnMoreLink}).",
     "REFERRAL_INCENTIVE_FRIEND_PASS_COUNTDOWN_HAS_BEGUN_V2": "The countdown has begun! You\u2019ll get more Nitro friend passes in {numberOfTimePeriods, plural, =1 {# month} other {# months}}. [Learn more]({learnMoreLink}).",

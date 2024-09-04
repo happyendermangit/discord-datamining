@@ -800,6 +800,7 @@
     "SURVEY_OVERRIDE": "Survey Override",
     "QUEST_PREVIEW_TOOL": "Quest Preview Tool",
     "SECURE_FRAMES": "Secure Frames",
+    "SECURE_FRAMES_VERIFIED_DEVICES": "Secure Frames Verified Devices",
     "OAUTH2_REDIRECT_FRAGMENT": "/_discord?",
     "GAME_INVITE_FRAGMENT": "/_discord/join?secret=",
     "STORAGE_MANIFEST": "e, t) => \"\".concat(e, \"/storage/\").concat(t, \"/MANIFEST\"",

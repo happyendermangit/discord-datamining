@@ -18728,7 +18728,7 @@
     "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER": "Syncing with **!!{applicationName}!!** \u00e2\u0080\u00a2 [Learn more]({helpdeskArticle})",
     "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_UNKNOWN_APPLICATION": "Syncing with an application \u00e2\u0080\u00a2 [Learn more]({helpdeskArticle})",
     "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_COACHMARK_TITLE": "Syncing with games",
-    "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_COACHMARK_DESCRIPTION": "This channel is syncing to a game that uses Discord to power its chat. [Learn more]({helpdeskArticle})",
+    "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_COACHMARK_DESCRIPTION": "This channel is syncing to a game that uses Discord to power its chat.\\n\\n[Learn more]({helpdeskArticle})",
     "CHANNEL_LINKED_LOBBY_CHANNEL_TOPIC_TOOLTIP": "This channel is syncing messages with a game.",
     "CHANNEL_LINKED_LOBBY_CHANNEL_TOPIC_NOTICE": "This channel is syncing with **!!{applicationName}!!** $[\u00e2\u0080\u00a2](separatorHook) [Learn more]({helpdeskArticle})",
     "DISCORD_NAME": "Discord",

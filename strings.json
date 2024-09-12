@@ -4325,6 +4325,7 @@
     "CONNECTED_ACCOUNTS_NONE": "Connect your accounts to unlock special Discord integrations",
     "CONNECTED_ACCOUNT_REVOKED": "This account has been revoked. Would you like to [reconnect](onReconnect) it?",
     "SUB_ENABLED_SERVERS": "Sub Enabled Servers",
+    "AUTHORIZED_APPS_AUTHORIZED_ON": "Authorized on {date}",
     "MANAGE_AUTHORIZED_APP": "Manage Authorized App",
     "DEAUTHORIZE_APP": "Deauthorize Application",
     "ABOUT_THIS_APP": "About this App",

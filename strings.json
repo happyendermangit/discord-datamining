@@ -64,6 +64,8 @@
     "DISCOVERY_ALL_GAMES": "/discovery/games/all",
     "DISCOVERY_RECOMMENDATIONS": "/discovery/recommendations",
     "DISCOVERY_GUILD_PROFILES": "/discovery/guilds",
+    "GUILD_DISCOVERY_SAVED_GUILDS": "/users/@me/saved-guilds",
+    "GUILD_DISCOVERY_SAVED_GUILDS_BULK": "/users/@me/saved-guilds-bulk",
     "GUILD_RECOMMENDATIONS": ") => \"/guild-recommendations",
     "GUILD_EMOJIS": " => \"/guilds/\".concat(e, \"/emojis\"",
     "GUILD_EMOJI": "e, t) => \"/guilds/\".concat(e, \"/emojis/\").concat(t",

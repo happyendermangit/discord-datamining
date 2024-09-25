@@ -326,7 +326,7 @@
     "APPLICATIONS_TRENDING": "/applications/trending/global",
     "APPLICATION_BRANCH_LIST": " => \"/applications/\".concat(e, \"/branches\"",
     "LIBRARY_APPLICATION_INSTALLED": "e, t) => \"/users/@me/library/\".concat(e, \"/\").concat(t, \"/installed\"",
-    "STOREFRONT_PREMIUM_BUTTON": " => \"/storefront/button/\".concat(e",
+    "STOREFRONT_PREMIUM_BUTTON": " => \"/applications/storefront/interactions/premium-button/\".concat(e",
     "STORE_DIRECTORY_LAYOUT": " => \"/store/directory-layouts/\".concat(e",
     "STORE_DIRECTORY": " => \"/store/directory/\".concat(e",
     "STORE_EMAIL_RESEND_PAYMENT_VERIFICATION": "/store/email/resend-payment-verification",

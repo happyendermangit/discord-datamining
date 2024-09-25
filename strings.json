@@ -18801,6 +18801,8 @@
     "CHANNEL_LINKED_LOBBY_CHANNEL_NSFW_DISABLED_REASON": "Channels syncing with games cannot be age restricted",
     "GUILD_SETTINGS_AUDIT_LOG_CHANNEL_LOBBY_LINK_CREATE": "Started syncing channel with $[](applicationHook)",
     "GUILD_SETTINGS_AUDIT_LOG_CHANNEL_LOBBY_LINK_DELETE": "Stopped syncing channel with $[](applicationHook)",
+    "PROVISIONAL_ACCOUNT": "Provisional Account",
+    "PROVISIONAL_ACCOUNT_EXPLAINER_BODY": "This user does not have a Discord account yet so some features may be limited. [Learn more]({helpdeskArticle})",
     "DEVELOPER_SETTINGS": "Developer Settings",
     "DEVELOPER_SETTINGS_MANIFEST": "Manifest",
     "DEVELOPER_SETTINGS_APP_VERSION": "App Version",

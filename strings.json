@@ -608,6 +608,7 @@
     "QUESTS_PREVIEW_STATUS": " => \"/quests/\".concat(e, \"/preview/status\"",
     "QUESTS_PREVIEW_DISMISSIBILITY": " => \"/quests/\".concat(e, \"/preview/dismissibility\"",
     "QUESTS_PREVIEW_COMPLETE": " => \"/quests/\".concat(e, \"/preview/complete\"",
+    "QUEST_FETCH_QUEST_TO_DELIVER": " => \"/quests/decision?placement=\".concat(e",
     "ATTACHMENTS_REFRESH_URLS": "/attachments/refresh-urls",
     "GAME_INVITE": " => \"/game-invite/@me/\".concat(e",
     "GAME_INVITES": "Invites",

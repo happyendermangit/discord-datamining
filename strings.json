@@ -633,7 +633,7 @@
     "SIMILAR_GAMES": " => \"/content-inventory/users/@me/similar-games/\".concat(e",
     "VOICE_PUBLIC_KEYS": ") => \"/voice/public-keys",
     "VOICE_MATCH_PUBLIC_KEY": " => \"/voice/\".concat(e, \"/match-public-key\"",
-    "GUILD_LEADERBOARD": "e, t) => \"/guilds/\".concat(e, \"/leaderboards/\").concat(",
+    "GUILD_LEADERBOARD": "e, t) => \"/guilds/\".concat(e, \"/leaderboards/\").concat(t",
     "APP_WITH_INVITE_AND_GUILD_ONBOARDING": " => \"/app/invite-with-guild-onboarding/\".concat(e",
     "ACTIVITIES_HAPPENING_NOW": "/activities/happening-now",
     "ACTIVITY_DETAILS": " => \"/activities/\".concat(e",

@@ -681,7 +681,7 @@
     "GLOBAL_DISCOVERY": "/discovery",
     "QUEST_HOME": "/discovery/quests",
     "GLOBAL_DISCOVERY_SERVERS": "/discovery/servers",
-    "GLOBAL_DISCOVERY_APPS": "/discovery/apps",
+    "GLOBAL_DISCOVERY_APPS": "/discovery/applications",
     "DISCOVERY_GUILD_GAME_RESULTS": " => \"/discovery/game/\".concat(e",
     "GUILD_MEMBER_VERIFICATION_FOR_HUB": "e, t) => \"/member-verification-for-hub/\".concat(e).concat(null != t ? \"/\".concat(",
     "POPOUT_WINDOW": "/popout",

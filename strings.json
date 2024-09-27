@@ -189,6 +189,7 @@
     "VERIFY_PHONE_FOR_TICKET": "/phone-verifications/validate-support-ticket",
     "RESEND_PHONE": "/phone-verifications/resend",
     "CONNECTIONS_AUTHORIZE": " => \"/connections/\".concat(e, \"/authorize\"",
+    "CONNECTIONS_SESSION_HANDOFF": " => \"/connections/\".concat(e, \"/callback/session-handoff\"",
     "CONNECTIONS_CALLBACK": " => \"/connections/\".concat(e, \"/callback\"",
     "CONNECTION_REFRESH": "e, t) => \"/users/@me/connections/\".concat(e, \"/\").concat(t, \"/refresh\"",
     "CONNECTION_SYNC_CONTACTS": "/users/@me/connections/contacts/@me/external-friend-list-entries",

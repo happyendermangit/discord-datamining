@@ -4345,6 +4345,7 @@
     "SUB_ENABLED_SERVERS": "Sub Enabled Servers",
     "AUTHORIZED_APPS_AUTHORIZED_ON": "Authorized on {date}",
     "MANAGE_AUTHORIZED_APP": "Manage Authorized App",
+    "MANAGE_APP": "Manage App",
     "DEAUTHORIZE_APP": "Deauthorize Application",
     "ABOUT_THIS_APP": "About this App",
     "DEFAULT_APP_DESCRIPTION": "- None provided -",

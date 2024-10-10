@@ -649,6 +649,7 @@
     "BILLING_PREMIUM_SWITCH_PLAN": "/billing/premium/switch-plan",
     "BILLING_GUILD_SUBSCRIPTIONS_PURCHASE": "/billing/guild-subscriptions/purchase",
     "BILLING_PROMOTION_REDEMPTION": " => \"/billing/promotions/\".concat(e",
+    "BILLING_PROMOTION_REDEMPTION_GENERIC": "/billing/promotions",
     "BILLING_PROMOTION_DIRECT_FULFILLMENT_REDEMPTION": "e, t) => \"/billing/partner-promotions/\".concat(e, \"/\").concat(t",
     "MESSAGE_REQUESTS": "Message Requests",
     "LOGIN_HANDOFF": "/login/handoff",

@@ -553,7 +553,6 @@
     "SHARED_CANVAS_LINES": "e, t) => \"/channels/\".concat(e, \"/\").concat(t, \"/shared-canvas/lines\"",
     "SHARED_CANVAS_EMOJI_HOSES": "e, t) => \"/channels/\".concat(e, \"/\").concat(t, \"/shared-canvas/emoji-hose\"",
     "SHARED_CANVAS_EMOJI_HOSE": "e, t, n) => \"/channels/\".concat(e, \"/\").concat(t, \"/shared-canvas/emoji-hose/\").concat(n",
-    "USER_PREMIUM_LIKELIHOOD": "/users/@me/billing/premium-likelihood",
     "BURST_CREDIT_BALANCE": "/users/@me/burst-credits",
     "GET_SAVED_MESSAGES": "/users/@me/saved-messages",
     "PUT_SAVED_MESSAGE": "e, t) => \"/users/@me/saved-messages/\".concat(e, \"/\").concat(t",

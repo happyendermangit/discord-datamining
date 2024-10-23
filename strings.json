@@ -163,6 +163,7 @@
     "TUTORIAL_INDICATORS_SUPPRESS": "/tutorial/indicators/suppress",
     "TUTORIAL_INDICATOR": " => \"/tutorial/indicators/\".concat(e",
     "GRAVITY_ITEMS_DEHYDRATED": "/users/@me/gravity-icymi",
+    "GRAVITY_ITEMS_DEHYDRATED_LEGACY": "/users/@me/gravity-icymi-legacy",
     "GRAVITY_RECOMMENDED_GUILDS": "/gravity-recommended-guilds",
     "GRAVITY_ITEMS_NEGATIVE": "/users/@me/gravity-icymi-negative",
     "GRAVITY_ITEMS_HYDRATE": "/gravity-content",

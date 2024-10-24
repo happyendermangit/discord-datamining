@@ -18415,6 +18415,7 @@
     "QUESTS_LEARN_MORE_LINK": "[Learn More]({questsLearnMoreLink})",
     "QUESTS_ACCEPT_QUEST": "Accept Quest",
     "QUESTS_START_QUEST": "Start Quest",
+    "QUESTS_START_VIDEO_QUEST": "Start Video Quest",
     "QUESTS_INSTRUCTIONS_TO_EARN_REWARD": "Stream {gameTitle} to a friend for {streamingDurationRequirement, number} minutes and earn **{questReward}**.",
     "QUESTS_INSTRUCTIONS_TO_WIN_REWARD": "Stream {gameTitle} to a friend for {streamingDurationRequirement, number} minutes and win {questReward}.",
     "QUESTS_INSTRUCTIONS_TO_EARN_REWARD_V2": "Stream {gameTitle} to a friend for {streamingDurationRequirement, number} minutes and earn **{questReward}**.",

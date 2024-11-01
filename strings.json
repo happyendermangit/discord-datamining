@@ -9268,7 +9268,7 @@
     "CONFIRM_CHANNEL_DRAG_TITLE": "Sync permissions?",
     "SYNC_PERMISSIONS": "Sync Permissions",
     "SYNC_NOW": "Sync Now",
-    "SYNC_PERMISSIONS_EXPLANATION": "Would you like to sync **{channelName}** permissions with **{categoryName}**?",
+    "SYNC_PERMISSIONS_EXPLANATION": "Would you like to sync **!!{channelName}!!** permissions with **!!{categoryName}!!**?",
     "KEEP_PERMISSIONS": "Keep Current Permissions",
     "NITRO_HOME_ENJOY_UPDATED_DISCORD": "Enjoy An Upgraded Discord",
     "NITRO_HOME_SHOW_UP_HOW_YOU_WANT": "Show Up The Way You Want",
